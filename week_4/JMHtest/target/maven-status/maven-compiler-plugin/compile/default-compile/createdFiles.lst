@@ -1,0 +1,11 @@
+org\sample\jmh_generated\ScalabilityExamples_cubicScaling_jmhTest.class
+org\sample\jmh_generated\ScalabilityExamples_jmhType_B2.class
+org\sample\jmh_generated\ScalabilityExamples_jmhType_B3.class
+META-INF\BenchmarkList
+org\sample\jmh_generated\ScalabilityExamples_linearScaling_jmhTest.class
+org\sample\ScalabilityExamples.class
+META-INF\CompilerHints
+org\sample\jmh_generated\ScalabilityExamples_jmhType.class
+org\sample\jmh_generated\ScalabilityExamples_jmhType_B1.class
+org\sample\jmh_generated\ScalabilityExamples_logarithmicScaling_jmhTest.class
+org\sample\jmh_generated\ScalabilityExamples_quadraticScaling_jmhTest.class

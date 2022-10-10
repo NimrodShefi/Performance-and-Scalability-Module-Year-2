@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en"
+      xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:th="http://www.thymeleaf.org"
+      xmlns:layout="http://www.ultraq.net.nz/thymeleaf/layout"
+      layout:decorate="~{basePage}">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+
+<th:block layout:fragment="pageContent">
+    <h1> Menu </h1>
+
+    <p> as can be seen by the first item on the menu:
+        <span th:text="${item}">test</span> there is an item:
+        <span th:text="${item.name}">itemname</span>
+        <span th:text="${menu[0].name}">menu[0]name</span>
+    </p>
+
+    <table>
+        <tr th:each="item : ${menu}">
+            <td th:text="${item.id}">1</td>
+            <td th:text="${item.name}">1</td>
+            <td th:text="${item.description}">1</td>
+            <td th:text="${item.price}">1</td>
+        </tr>
+    </table>
+
+</th:block>
+
+</html>

@@ -1,0 +1,16 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1615472903513,58,Home,200,,Thread Group 1-1,text,true,,2064,126,1,1,http://localhost:8080/index.html,54,0,36
+1615472903574,29,AboutUs,200,,Thread Group 1-1,text,true,,5137,130,1,1,http://localhost:8080/public/aboutUs,28,0,0
+1615472903607,11,Menu,200,,Thread Group 1-1,text,true,,6090,180,1,1,http://localhost:8080/public/menu,11,0,0
+1615472903618,34,addItem,200,,Thread Group 1-1,text,true,,5302,502,1,1,http://localhost:8080/login,15,0,0
+1615472903618,15,addItem-0,302,,Thread Group 1-1,,true,,294,255,1,1,http://localhost:8080/admin/addItem,15,0,0
+1615472903635,17,addItem-1,200,,Thread Group 1-1,text,true,,5008,247,1,1,http://localhost:8080/login,17,0,0
+1615472903661,41,login,200,,Thread Group 1-1,text,true,,5299,662,1,1,http://localhost:8080/admin/addItem,15,0,0
+1615472903661,15,login-0,302,,Thread Group 1-1,,true,,377,407,1,1,http://localhost:8080/login,15,0,0
+1615472903677,25,login-1,200,,Thread Group 1-1,text,true,,4922,255,1,1,http://localhost:8080/admin/addItem,24,0,0
+1615472903703,56,addItem,200,,Thread Group 1-1,text,true,,6550,674,1,1,http://localhost:8080/public/menu,37,0,0
+1615472903703,37,addItem-0,302,,Thread Group 1-1,,true,,325,421,1,1,http://localhost:8080/admin/addItem,37,0,0
+1615472903740,19,addItem-1,200,,Thread Group 1-1,text,true,,6225,253,1,1,http://localhost:8080/public/menu,18,0,0
+1615472903762,51,Logout,200,,Thread Group 1-1,text,true,,5442,629,1,1,http://localhost:8080/login?logout,6,0,0
+1615472903762,6,Logout-0,302,,Thread Group 1-1,,true,,301,375,1,1,http://localhost:8080/logout,6,0,0
+1615472903768,45,Logout-1,200,,Thread Group 1-1,text,true,,5141,254,1,1,http://localhost:8080/login?logout,44,0,0

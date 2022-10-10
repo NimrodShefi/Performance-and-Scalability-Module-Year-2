@@ -1,0 +1,15 @@
+JMH S 21 org.sample.ExerciseLC S 50 org.sample.jmh_generated.ExerciseLC_better_jmhTest S 6 better S 11 AverageTime E A 1 1 1 E I 1 5 T 3 1 s E I 1 5 T 3 1 s E I 1 1 E E E E E E U 11 NANOSECONDS E E 
+JMH S 26 org.sample.OptimisationsLC S 58 org.sample.jmh_generated.OptimisationsLC_c_autoBox_jmhTest S 9 c_autoBox S 11 AverageTime E A 1 1 1 E I 1 5 T 3 1 s E I 1 5 T 3 1 s E I 1 1 E E E E E E U 11 NANOSECONDS E E 
+JMH S 26 org.sample.OptimisationsLC S 60 org.sample.jmh_generated.OptimisationsLC_b_ObjReturn_jmhTest S 11 b_ObjReturn S 11 AverageTime E A 1 1 1 E I 1 5 T 3 1 s E I 1 5 T 3 1 s E I 1 1 E E E E E E U 11 NANOSECONDS E E 
+JMH S 26 org.sample.OptimisationsLC S 63 org.sample.jmh_generated.OptimisationsLC_a_BlankConsume_jmhTest S 14 a_BlankConsume S 11 AverageTime E A 1 1 1 E I 1 5 T 3 1 s E I 1 5 T 3 1 s E I 1 1 E E E E E E U 11 NANOSECONDS E E 
+JMH S 21 org.sample.ExerciseLC S 48 org.sample.jmh_generated.ExerciseLC_good_jmhTest S 4 good S 11 AverageTime E A 1 1 1 E I 1 5 T 3 1 s E I 1 5 T 3 1 s E I 1 1 E E E E E E U 11 NANOSECONDS E E 
+JMH S 26 org.sample.OptimisationsLC S 58 org.sample.jmh_generated.OptimisationsLC_i_shift_2_jmhTest S 9 i_shift_2 S 11 AverageTime E A 1 1 1 E I 1 5 T 3 1 s E I 1 5 T 3 1 s E I 1 1 E E E E E E U 11 NANOSECONDS E E 
+JMH S 26 org.sample.OptimisationsLC S 54 org.sample.jmh_generated.OptimisationsLC_d_x32_jmhTest S 5 d_x32 S 11 AverageTime E A 1 1 1 E I 1 5 T 3 1 s E I 1 5 T 3 1 s E I 1 1 E E E E E E U 11 NANOSECONDS E E 
+JMH S 21 org.sample.ExerciseLC S 47 org.sample.jmh_generated.ExerciseLC_bad_jmhTest S 3 bad S 11 AverageTime E A 1 1 1 E I 1 5 T 3 1 s E I 1 5 T 3 1 s E I 1 1 E E E E E E U 11 NANOSECONDS E E 
+JMH S 26 org.sample.OptimisationsLC S 55 org.sample.jmh_generated.OptimisationsLC_f_div2_jmhTest S 6 f_div2 S 11 AverageTime E A 1 1 1 E I 1 5 T 3 1 s E I 1 5 T 3 1 s E I 1 1 E E E E E E U 11 NANOSECONDS E E 
+JMH S 26 org.sample.OptimisationsLC S 57 org.sample.jmh_generated.OptimisationsLC_e_shift5_jmhTest S 8 e_shift5 S 11 AverageTime E A 1 1 1 E I 1 5 T 3 1 s E I 1 5 T 3 1 s E I 1 1 E E E E E E U 11 NANOSECONDS E E 
+JMH S 26 org.sample.OptimisationsLC S 55 org.sample.jmh_generated.OptimisationsLC_h_div4_jmhTest S 6 h_div4 S 11 AverageTime E A 1 1 1 E I 1 5 T 3 1 s E I 1 5 T 3 1 s E I 1 1 E E E E E E U 11 NANOSECONDS E E 
+JMH S 26 org.sample.OptimisationsLC S 57 org.sample.jmh_generated.OptimisationsLC_c_shift1_jmhTest S 8 c_shift1 S 11 AverageTime E A 1 1 1 E I 1 5 T 3 1 s E I 1 5 T 3 1 s E I 1 1 E E E E E E U 11 NANOSECONDS E E 
+JMH S 26 org.sample.OptimisationsLC S 58 org.sample.jmh_generated.OptimisationsLC_g_shift_1_jmhTest S 9 g_shift_1 S 11 AverageTime E A 1 1 1 E I 1 5 T 3 1 s E I 1 5 T 3 1 s E I 1 1 E E E E E E U 11 NANOSECONDS E E 
+JMH S 26 org.sample.OptimisationsLC S 53 org.sample.jmh_generated.OptimisationsLC_b_x2_jmhTest S 4 b_x2 S 11 AverageTime E A 1 1 1 E I 1 5 T 3 1 s E I 1 5 T 3 1 s E I 1 1 E E E E E E U 11 NANOSECONDS E E 
+JMH S 26 org.sample.OptimisationsLC S 60 org.sample.jmh_generated.OptimisationsLC_a_intReturn_jmhTest S 11 a_intReturn S 11 AverageTime E A 1 1 1 E I 1 5 T 3 1 s E I 1 5 T 3 1 s E I 1 1 E E E E E E U 11 NANOSECONDS E E 

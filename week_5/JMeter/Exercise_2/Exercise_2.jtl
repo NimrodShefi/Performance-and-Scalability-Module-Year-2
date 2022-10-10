@@ -1,0 +1,131 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1615476502544,89,Home,200,,Thread Group 1-3,text,true,,2064,200,4,4,http://localhost:8080/index.html,82,0,49
+1615476502544,89,Home,200,,Thread Group 1-2,text,true,,2064,200,4,4,http://localhost:8080/index.html,82,0,49
+1615476502544,89,Home,200,,Thread Group 1-1,text,true,,2064,200,4,4,http://localhost:8080/index.html,82,0,49
+1615476502629,16,Home,200,,Thread Group 1-4,text,true,,2064,200,4,4,http://localhost:8080/index.html,16,0,4
+1615476502642,52,About Us,200,,Thread Group 1-1,text,true,,5137,204,4,4,http://localhost:8080/public/aboutUs,51,0,0
+1615476502647,47,About Us,200,,Thread Group 1-4,text,true,,5137,204,4,4,http://localhost:8080/public/aboutUs,46,0,0
+1615476502642,52,About Us,200,,Thread Group 1-2,text,true,,5137,204,4,4,http://localhost:8080/public/aboutUs,51,0,0
+1615476502642,64,About Us,200,,Thread Group 1-3,text,true,,5137,204,4,4,http://localhost:8080/public/aboutUs,64,0,0
+1615476502708,41,Menu,200,,Thread Group 1-3,text,true,,7571,254,5,5,http://localhost:8080/public/menu,41,0,0
+1615476502704,52,Menu,200,,Thread Group 1-2,text,true,,7571,254,5,5,http://localhost:8080/public/menu,52,0,0
+1615476502700,57,Menu,200,,Thread Group 1-1,text,true,,7571,254,5,5,http://localhost:8080/public/menu,57,0,0
+1615476502703,65,Menu,200,,Thread Group 1-4,text,true,,7571,254,5,5,http://localhost:8080/public/menu,65,0,0
+1615476502727,43,Home,200,,Thread Group 1-5,text,true,,2064,200,5,5,http://localhost:8080/index.html,43,0,2
+1615476502753,45,Add Item Get,200,,Thread Group 1-3,text,true,,5302,504,5,5,http://localhost:8080/login,17,0,0
+1615476502753,17,Add Item Get-0,302,,Thread Group 1-3,,true,,294,256,5,5,http://localhost:8080/admin/addItem,17,0,0
+1615476502774,24,Add Item Get-1,200,,Thread Group 1-3,text,true,,5008,248,5,5,http://localhost:8080/login,23,0,0
+1615476502772,51,About Us,200,,Thread Group 1-5,text,true,,5137,204,5,5,http://localhost:8080/public/aboutUs,51,0,0
+1615476502757,72,Add Item Get,200,,Thread Group 1-2,text,true,,5302,504,5,5,http://localhost:8080/login,28,0,0
+1615476502757,28,Add Item Get-0,302,,Thread Group 1-2,,true,,294,256,5,5,http://localhost:8080/admin/addItem,28,0,0
+1615476502785,44,Add Item Get-1,200,,Thread Group 1-2,text,true,,5008,248,5,5,http://localhost:8080/login,22,0,0
+1615476502769,67,Add Item Get,200,,Thread Group 1-4,text,true,,5302,504,5,5,http://localhost:8080/login,41,0,0
+1615476502769,41,Add Item Get-0,302,,Thread Group 1-4,,true,,294,256,5,5,http://localhost:8080/admin/addItem,41,0,0
+1615476502810,26,Add Item Get-1,200,,Thread Group 1-4,text,true,,5008,248,5,5,http://localhost:8080/login,26,0,0
+1615476502824,67,Menu,200,,Thread Group 1-5,text,true,,7571,254,6,6,http://localhost:8080/public/menu,65,0,0
+1615476502757,134,Add Item Get,200,,Thread Group 1-1,text,true,,5302,504,6,6,http://localhost:8080/login,77,0,0
+1615476502757,77,Add Item Get-0,302,,Thread Group 1-1,,true,,294,256,6,6,http://localhost:8080/admin/addItem,77,0,0
+1615476502835,56,Add Item Get-1,200,,Thread Group 1-1,text,true,,5008,248,6,6,http://localhost:8080/login,54,0,0
+1615476502875,41,Home,200,,Thread Group 1-6,text,true,,2064,200,6,6,http://localhost:8080/index.html,41,0,5
+1615476502812,103,Login,200,,Thread Group 1-3,text,true,,5299,664,6,6,http://localhost:8080/admin/addItem,24,0,0
+1615476502812,24,Login-0,302,,Thread Group 1-3,,true,,377,408,6,6,http://localhost:8080/login,24,0,0
+1615476502837,78,Login-1,200,,Thread Group 1-3,text,true,,4922,256,6,6,http://localhost:8080/admin/addItem,77,0,0
+1615476502838,125,Login,200,,Thread Group 1-2,text,true,,5299,664,7,7,http://localhost:8080/admin/addItem,66,0,0
+1615476502838,66,Login-0,302,,Thread Group 1-2,,true,,377,408,7,7,http://localhost:8080/login,66,0,0
+1615476502907,56,Login-1,200,,Thread Group 1-2,text,true,,4922,256,7,7,http://localhost:8080/admin/addItem,40,0,0
+1615476502892,79,Add Item Get,200,,Thread Group 1-5,text,true,,5302,504,7,7,http://localhost:8080/login,27,0,0
+1615476502892,27,Add Item Get-0,302,,Thread Group 1-5,,true,,294,256,7,7,http://localhost:8080/admin/addItem,27,0,0
+1615476502919,52,Add Item Get-1,200,,Thread Group 1-5,text,true,,5008,248,7,7,http://localhost:8080/login,50,0,0
+1615476502946,48,Home,200,,Thread Group 1-7,text,true,,2064,200,7,7,http://localhost:8080/index.html,48,0,11
+1615476502920,75,About Us,200,,Thread Group 1-6,text,true,,5137,204,7,7,http://localhost:8080/public/aboutUs,75,0,0
+1615476502892,122,Login,200,,Thread Group 1-1,text,true,,5299,664,7,7,http://localhost:8080/admin/addItem,32,0,0
+1615476502892,32,Login-0,302,,Thread Group 1-1,,true,,377,408,7,7,http://localhost:8080/login,32,0,0
+1615476502924,90,Login-1,200,,Thread Group 1-1,text,true,,4922,256,7,7,http://localhost:8080/admin/addItem,56,0,0
+1615476502995,32,About Us,200,,Thread Group 1-7,text,true,,5137,204,7,7,http://localhost:8080/public/aboutUs,32,0,0
+1615476502838,204,Login,200,,Thread Group 1-4,text,true,,5299,664,8,8,http://localhost:8080/admin/addItem,81,0,0
+1615476502838,81,Login-0,302,,Thread Group 1-4,,true,,377,408,8,8,http://localhost:8080/login,81,0,0
+1615476502919,123,Login-1,200,,Thread Group 1-4,text,true,,4922,256,8,8,http://localhost:8080/admin/addItem,123,0,0
+1615476502972,89,Login,200,,Thread Group 1-5,text,true,,5299,664,8,8,http://localhost:8080/admin/addItem,63,0,0
+1615476502972,63,Login-0,302,,Thread Group 1-5,,true,,377,408,8,8,http://localhost:8080/login,63,0,0
+1615476503037,24,Login-1,200,,Thread Group 1-5,text,true,,4922,256,8,8,http://localhost:8080/admin/addItem,24,0,0
+1615476503059,16,Home,200,,Thread Group 1-8,text,true,,2064,200,8,8,http://localhost:8080/index.html,16,0,3
+1615476503028,74,Menu,200,,Thread Group 1-7,text,true,,7976,254,8,8,http://localhost:8080/public/menu,73,0,0
+1615476502996,116,Menu,200,,Thread Group 1-6,text,true,,7841,254,8,8,http://localhost:8080/public/menu,116,0,0
+1615476503044,75,Add Item Post,200,,Thread Group 1-4,text,true,,8576,681,9,9,http://localhost:8080/public/menu,43,0,0
+1615476503044,43,Add Item Post-0,302,,Thread Group 1-4,,true,,325,427,9,9,http://localhost:8080/admin/addItem,43,0,0
+1615476503089,30,Add Item Post-1,200,,Thread Group 1-4,text,true,,8251,254,9,9,http://localhost:8080/public/menu,23,0,0
+1615476503076,60,About Us,200,,Thread Group 1-8,text,true,,5137,204,9,9,http://localhost:8080/public/aboutUs,37,0,0
+1615476502920,252,Add Item Post,200,,Thread Group 1-3,text,true,,8576,681,9,9,http://localhost:8080/public/menu,181,0,0
+1615476502920,181,Add Item Post-0,302,,Thread Group 1-3,,true,,325,427,9,9,http://localhost:8080/admin/addItem,181,0,0
+1615476503102,70,Add Item Post-1,200,,Thread Group 1-3,text,true,,8251,254,9,9,http://localhost:8080/public/menu,69,0,0
+1615476503119,60,Home,200,,Thread Group 1-9,text,true,,2064,200,9,9,http://localhost:8080/index.html,60,0,3
+1615476503120,61,HTTP RequestLogout,200,,Thread Group 1-4,text,true,,2103,243,9,9,http://localhost:8080/,61,0,0
+1615476503180,51,About Us,200,,Thread Group 1-9,text,true,,5137,204,9,9,http://localhost:8080/public/aboutUs,51,0,0
+1615476503063,171,Add Item Post,200,,Thread Group 1-5,text,true,,8576,681,9,9,http://localhost:8080/public/menu,114,0,0
+1615476503063,114,Add Item Post-0,302,,Thread Group 1-5,,true,,325,427,9,9,http://localhost:8080/admin/addItem,114,0,0
+1615476503177,57,Add Item Post-1,200,,Thread Group 1-5,text,true,,8251,254,9,9,http://localhost:8080/public/menu,57,0,0
+1615476503174,113,HTTP RequestLogout,200,,Thread Group 1-3,text,true,,2103,243,9,9,http://localhost:8080/,112,0,0
+1615476503236,70,HTTP RequestLogout,200,,Thread Group 1-5,text,true,,2103,243,8,8,http://localhost:8080/,70,0,0
+1615476503019,290,Add Item Post,200,,Thread Group 1-1,text,true,,8576,681,7,7,http://localhost:8080/public/menu,138,0,0
+1615476503019,138,Add Item Post-0,302,,Thread Group 1-1,,true,,325,427,7,7,http://localhost:8080/admin/addItem,138,0,0
+1615476503158,151,Add Item Post-1,200,,Thread Group 1-1,text,true,,8251,254,7,7,http://localhost:8080/public/menu,32,0,0
+1615476503241,74,Home,200,,Thread Group 1-10,text,true,,2064,200,7,7,http://localhost:8080/index.html,73,0,9
+1615476503310,10,HTTP RequestLogout,200,,Thread Group 1-1,text,true,,2103,243,7,7,http://localhost:8080/,10,0,0
+1615476502969,359,Add Item Post,200,,Thread Group 1-2,text,true,,8576,681,6,6,http://localhost:8080/public/menu,239,0,0
+1615476502969,239,Add Item Post-0,302,,Thread Group 1-2,,true,,325,427,6,6,http://localhost:8080/admin/addItem,239,0,0
+1615476503209,119,Add Item Post-1,200,,Thread Group 1-2,text,true,,8251,254,6,6,http://localhost:8080/public/menu,119,0,0
+1615476503234,131,Menu,200,,Thread Group 1-9,text,true,,8246,254,6,6,http://localhost:8080/public/menu,131,0,0
+1615476503103,264,Add Item Get,200,,Thread Group 1-7,text,true,,5302,504,6,6,http://localhost:8080/login,102,0,0
+1615476503103,102,Add Item Get-0,302,,Thread Group 1-7,,true,,294,256,6,6,http://localhost:8080/admin/addItem,102,0,0
+1615476503207,160,Add Item Get-1,200,,Thread Group 1-7,text,true,,5008,248,6,6,http://localhost:8080/login,110,0,0
+1615476503118,254,Add Item Get,200,,Thread Group 1-6,text,true,,5302,504,6,6,http://localhost:8080/login,153,0,0
+1615476503118,153,Add Item Get-0,302,,Thread Group 1-6,,true,,294,256,6,6,http://localhost:8080/admin/addItem,153,0,0
+1615476503272,100,Add Item Get-1,200,,Thread Group 1-6,text,true,,5008,248,6,6,http://localhost:8080/login,82,0,0
+1615476503140,259,Menu,200,,Thread Group 1-8,text,true,,8246,254,6,6,http://localhost:8080/public/menu,203,0,0
+1615476503331,96,HTTP RequestLogout,200,,Thread Group 1-2,text,true,,2103,243,6,6,http://localhost:8080/,96,0,0
+1615476503366,94,Add Item Get,200,,Thread Group 1-9,text,true,,5302,504,5,5,http://localhost:8080/login,69,0,0
+1615476503366,69,Add Item Get-0,302,,Thread Group 1-9,,true,,294,256,5,5,http://localhost:8080/admin/addItem,69,0,0
+1615476503435,25,Add Item Get-1,200,,Thread Group 1-9,text,true,,5008,248,5,5,http://localhost:8080/login,22,0,0
+1615476503316,159,About Us,200,,Thread Group 1-10,text,true,,5137,204,5,5,http://localhost:8080/public/aboutUs,159,0,0
+1615476503369,145,Login,200,,Thread Group 1-7,text,true,,5299,664,5,5,http://localhost:8080/admin/addItem,8,0,0
+1615476503369,8,Login-0,302,,Thread Group 1-7,,true,,377,408,5,5,http://localhost:8080/login,8,0,0
+1615476503379,135,Login-1,200,,Thread Group 1-7,text,true,,4922,256,5,5,http://localhost:8080/admin/addItem,77,0,0
+1615476503374,185,Login,200,,Thread Group 1-6,text,true,,5299,664,5,5,http://localhost:8080/admin/addItem,71,0,0
+1615476503374,71,Login-0,302,,Thread Group 1-6,,true,,377,408,5,5,http://localhost:8080/login,71,0,0
+1615476503446,113,Login-1,200,,Thread Group 1-6,text,true,,4922,256,5,5,http://localhost:8080/admin/addItem,113,0,0
+1615476503477,99,Menu,200,,Thread Group 1-10,text,true,,8246,254,5,5,http://localhost:8080/public/menu,98,0,0
+1615476503516,106,Add Item Post,200,,Thread Group 1-7,text,true,,8711,681,5,5,http://localhost:8080/public/menu,55,0,0
+1615476503516,55,Add Item Post-0,302,,Thread Group 1-7,,true,,325,427,5,5,http://localhost:8080/admin/addItem,55,0,0
+1615476503572,50,Add Item Post-1,200,,Thread Group 1-7,text,true,,8386,254,5,5,http://localhost:8080/public/menu,49,0,0
+1615476503402,227,Add Item Get,200,,Thread Group 1-8,text,true,,5302,504,5,5,http://localhost:8080/login,116,0,0
+1615476503402,116,Add Item Get-0,302,,Thread Group 1-8,,true,,294,256,5,5,http://localhost:8080/admin/addItem,116,0,0
+1615476503518,111,Add Item Get-1,200,,Thread Group 1-8,text,true,,5008,248,5,5,http://localhost:8080/login,84,0,0
+1615476503627,116,HTTP RequestLogout,200,,Thread Group 1-7,text,true,,2103,243,5,5,http://localhost:8080/,116,0,0
+1615476503462,307,Login,200,,Thread Group 1-9,text,true,,5299,664,4,4,http://localhost:8080/admin/addItem,137,0,0
+1615476503462,137,Login-0,302,,Thread Group 1-9,,true,,377,408,4,4,http://localhost:8080/login,137,0,0
+1615476503602,167,Login-1,200,,Thread Group 1-9,text,true,,4922,256,4,4,http://localhost:8080/admin/addItem,167,0,0
+1615476503576,203,Add Item Get,200,,Thread Group 1-10,text,true,,5302,504,4,4,http://localhost:8080/login,162,0,0
+1615476503576,162,Add Item Get-0,302,,Thread Group 1-10,,true,,294,256,4,4,http://localhost:8080/admin/addItem,162,0,0
+1615476503738,41,Add Item Get-1,200,,Thread Group 1-10,text,true,,5008,248,4,4,http://localhost:8080/login,34,0,0
+1615476503631,180,Login,200,,Thread Group 1-8,text,true,,5299,664,4,4,http://localhost:8080/admin/addItem,128,0,0
+1615476503631,128,Login-0,302,,Thread Group 1-8,,true,,377,408,4,4,http://localhost:8080/login,128,0,0
+1615476503760,51,Login-1,200,,Thread Group 1-8,text,true,,4922,256,4,4,http://localhost:8080/admin/addItem,44,0,0
+1615476503770,62,Add Item Post,200,,Thread Group 1-9,text,true,,8987,681,4,4,http://localhost:8080/public/menu,36,0,0
+1615476503770,36,Add Item Post-0,302,,Thread Group 1-9,,true,,325,427,4,4,http://localhost:8080/admin/addItem,36,0,0
+1615476503807,25,Add Item Post-1,200,,Thread Group 1-9,text,true,,8662,254,4,4,http://localhost:8080/public/menu,25,0,0
+1615476503781,65,Login,200,,Thread Group 1-10,text,true,,5299,664,4,4,http://localhost:8080/admin/addItem,47,0,0
+1615476503781,47,Login-0,302,,Thread Group 1-10,,true,,377,408,4,4,http://localhost:8080/login,47,0,0
+1615476503828,18,Login-1,200,,Thread Group 1-10,text,true,,4922,256,4,4,http://localhost:8080/admin/addItem,18,0,0
+1615476503834,14,HTTP RequestLogout,200,,Thread Group 1-9,text,true,,2103,243,4,4,http://localhost:8080/,14,0,0
+1615476503562,308,Add Item Post,200,,Thread Group 1-6,text,true,,8987,681,3,3,http://localhost:8080/public/menu,150,0,0
+1615476503562,151,Add Item Post-0,302,,Thread Group 1-6,,true,,325,427,3,3,http://localhost:8080/admin/addItem,150,0,0
+1615476503713,157,Add Item Post-1,200,,Thread Group 1-6,text,true,,8662,254,3,3,http://localhost:8080/public/menu,157,0,0
+1615476503872,30,HTTP RequestLogout,200,,Thread Group 1-6,text,true,,2103,243,3,3,http://localhost:8080/,29,0,0
+1615476503813,175,Add Item Post,200,,Thread Group 1-8,text,true,,9259,681,2,2,http://localhost:8080/public/menu,147,0,0
+1615476503813,147,Add Item Post-0,302,,Thread Group 1-8,,true,,325,427,2,2,http://localhost:8080/admin/addItem,147,0,0
+1615476503962,26,Add Item Post-1,200,,Thread Group 1-8,text,true,,8934,254,2,2,http://localhost:8080/public/menu,23,0,0
+1615476503848,146,Add Item Post,200,,Thread Group 1-10,text,true,,9259,682,2,2,http://localhost:8080/public/menu,105,0,0
+1615476503848,105,Add Item Post-0,302,,Thread Group 1-10,,true,,325,428,2,2,http://localhost:8080/admin/addItem,105,0,0
+1615476503953,41,Add Item Post-1,200,,Thread Group 1-10,text,true,,8934,254,2,2,http://localhost:8080/public/menu,39,0,0
+1615476503992,20,HTTP RequestLogout,200,,Thread Group 1-8,text,true,,2103,243,2,2,http://localhost:8080/,20,0,0
+1615476503995,17,HTTP RequestLogout,200,,Thread Group 1-10,text,true,,2103,243,2,2,http://localhost:8080/,17,0,0

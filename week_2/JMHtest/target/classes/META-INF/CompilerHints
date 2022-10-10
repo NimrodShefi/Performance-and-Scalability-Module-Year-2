@@ -1,0 +1,11 @@
+dontinline,*.*_all_jmhStub
+dontinline,*.*_avgt_jmhStub
+dontinline,*.*_sample_jmhStub
+dontinline,*.*_ss_jmhStub
+dontinline,*.*_thrpt_jmhStub
+inline,org/sample/ExerciseBenchmark.createArray
+inline,org/sample/ExerciseBenchmark.createMat
+inline,org/sample/ExerciseBenchmark.matMult
+inline,org/sample/ExerciseBenchmark.setup
+inline,org/sample/SetupBenchmark.add
+inline,org/sample/SetupBenchmark.setup

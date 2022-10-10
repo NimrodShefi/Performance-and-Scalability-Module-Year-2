@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en"
+      xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:th="http://www.thymeleaf.org"
+      xmlns:layout="http://www.ultraq.net.nz/thymeleaf/layout"
+      layout:decorate="~{basePage}">
+<head>
+
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<th:block layout:fragment="pageContent">
+    <form action="/admin/addItem" method = "post">
+        <input type="hidden" th:name="${_csrf.parameterName}" th:value="${_csrf.token}"/>
+        <input type="text" name="name" value="Item Name"/>
+        <input type="text" name="description" value="Item Description"/>
+        <input type="number" name="price" value="Item Price"/>
+        <button type="submit">Submit</button>
+    </form>
+</th:block>
+</body>
+</html>

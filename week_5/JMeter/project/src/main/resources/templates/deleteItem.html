@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en"
+      xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:th="http://www.thymeleaf.org"
+      xmlns:layout="http://www.ultraq.net.nz/thymeleaf/layout"
+      layout:decorate="~{basePage}">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<th:block layout:fragment="pageContent">
+<table>
+    <tr th:each="item : ${menu}">
+        <td th:text="${item.id}">1</td>
+        <td th:text="${item.name}">1</td>
+        <td th:text="${item.description}">1</td>
+        <td th:text="${item.price}">1</td>
+        <td>
+            <form th:action="@{/admin/deleteItem/{id}(id=${item.id})}" method = "post">
+                <button type="submit">Delete</button>
+            </form>
+        </td>
+    </tr>
+</table>
+</th:block>
+</body>
+</html>

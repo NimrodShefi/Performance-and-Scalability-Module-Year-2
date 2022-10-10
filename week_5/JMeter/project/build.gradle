@@ -1,0 +1,41 @@
+buildscript {
+    ext {
+        springBootVersion = '2.0.3.RELEASE'
+    }
+    repositories {
+        mavenCentral()
+    }
+    dependencies {
+        classpath("org.springframework.boot:spring-boot-gradle-plugin:${springBootVersion}")
+    }
+}
+
+apply plugin: 'java'
+apply plugin: 'eclipse'
+apply plugin: 'org.springframework.boot'
+apply plugin: 'io.spring.dependency-management'
+
+group = 'com.nsa.msc.takeaway'
+version = '0.0.1-SNAPSHOT'
+sourceCompatibility = 10
+
+repositories {
+    mavenCentral()
+}
+
+
+dependencies {
+    compile (group:'mysql', name :'mysql-connector-java',version :'5.1.13')
+
+    compileOnly 'org.projectlombok:lombok:1.16.22'
+    compile('org.springframework.boot:spring-boot-starter-jdbc')
+    compile('org.springframework.boot:spring-boot-starter-web')
+    compile('org.springframework.boot:spring-boot-starter-thymeleaf')
+    compile("org.springframework.boot:spring-boot-starter-security")
+    testCompile('org.springframework.boot:spring-boot-starter-test')
+//Security
+    testCompile("org.springframework.security:spring-security-test")
+    compile('nz.net.ultraq.thymeleaf:thymeleaf-layout-dialect')
+
+
+}

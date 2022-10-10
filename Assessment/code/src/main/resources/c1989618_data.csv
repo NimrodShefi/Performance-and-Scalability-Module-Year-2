@@ -1,0 +1,1001 @@
+id,item,cost,customer name,date
+1,Asus GeForce GTX 1650 SUPER 4 GB TUF GAMING OC Video Card,89.99,Randall Best,01/03/2021
+2,ARCTIC Freezer 34 eSports DUO CPU Cooler,54.75,Gale Stringer,01/05/2021
+3,Palit GeForce RTX 3080 10 GB GamingPro Video Card,85.19,Lettie Hodson,13/02/2021
+4,AMD Ryzen 5 5600X 3.7 GHz 6-Core Processor,57.49,Earl Strickland,02/04/2021
+5,Intel Core i3-10100 3.6 GHz Quad-Core Processor,829.99,Flo Cornett,14/02/2021
+6,NZXT H210 Mini ITX Tower Case,108.99,Kristopher Summerfield,15/04/2021
+7,MSI B550-A PRO ATX AM4 Motherboard,44.47,Randall Best,08/04/2021
+8,Corsair Vengeance LPX 16 GB (2 x 8 GB) DDR4-3000 CL15 Memory,249.99,Earl Strickland,04/02/2021
+9,Corsair RM (2019) 750 W 80+ Gold Certified Fully Modular ATX Power Supply,269.99,Lettie Hodson,12/03/2021
+10,AMD Ryzen 5 3600XT 3.8 GHz 6-Core Processor,89.95,Earl Strickland,10/04/2021
+11,Asus ROG STRIX B550-I GAMING Mini ITX AM4 Motherboard,89.95,Deon Hobson,10/02/2021
+12,Corsair RM (2019) 750 W 80+ Gold Certified Fully Modular ATX Power Supply,57.49,Kylie Armstrong,19/05/2021
+13,Patriot Signature Premium 16 GB (2 x 8 GB) DDR4-2666 CL19 Memory,44.47,Deon Hobson,06/02/2021
+14,Corsair Vengeance LPX 16 GB (2 x 8 GB) DDR4-3000 CL15 Memory,109.98,Cherie Scrivener,01/03/2021
+15,Corsair CXM (2015) 450 W 80+ Bronze Certified Semi-modular ATX Power Supply,97.99,Kristopher Summerfield,16/04/2021
+16,Samsung 970 Evo 500 GB M.2-2280 NVME Solid State Drive,85.19,Earl Strickland,21/02/2021
+17,Corsair Vengeance LPX 16 GB (2 x 8 GB) DDR4-3000 CL15 Memory,89.99,Randall Best,02/03/2021
+18,ARCTIC Freezer 34 eSports DUO CPU Cooler,54.75,Deon Hobson,03/05/2021
+19,Corsair CXM (2015) 450 W 80+ Bronze Certified Semi-modular ATX Power Supply,829.99,Flo Cornett,02/05/2021
+20,G.Skill Ripjaws V 16 GB (2 x 8 GB) DDR4-3600 CL16 Memory,89.99,Kristopher Summerfield,03/05/2021
+21,Intel Core i3-10100 3.6 GHz Quad-Core Processor,108.99,Elenora Ruskin,24/02/2021
+22,AMD Ryzen 5 3600XT 3.8 GHz 6-Core Processor,829.99,Earl Strickland,10/02/2021
+23,Corsair RM (2019) 750 W 80+ Gold Certified Fully Modular ATX Power Supply,108.99,Kylie Armstrong,02/02/2021
+24,Palit GeForce RTX 3080 10 GB GamingPro Video Card,89.99,Flo Cornett,11/04/2021
+25,MSI B550-A PRO ATX AM4 Motherboard,54.75,Randall Best,01/02/2021
+26,PowerColor Radeon RX 550 - 512 4 GB Red Dragon Video Card,108.99,Deon Hobson,16/04/2021
+27,MSI B460M PRO-VDH Micro ATX LGA1200 Motherboard,89.95,Lettie Hodson,10/05/2021
+28,Palit GeForce RTX 3080 10 GB GamingPro Video Card,89.95,Earl Strickland,16/05/2021
+29,Corsair CXM (2015) 450 W 80+ Bronze Certified Semi-modular ATX Power Supply,89.95,Randall Best,13/04/2021
+30,AMD Ryzen 5 3600XT 3.8 GHz 6-Core Processor,84.99,Earl Strickland,27/02/2021
+31,Corsair Vengeance LPX 16 GB (2 x 8 GB) DDR4-3000 CL15 Memory,299.99,Earl Strickland,28/03/2021
+32,Samsung 970 Evo 500 GB M.2-2280 NVME Solid State Drive,269.99,Elenora Ruskin,01/04/2021
+33,NZXT H210 Mini ITX Tower Case,89.99,Kylie Armstrong,09/03/2021
+34,"Kingston A400 480 GB 2.5"" Solid State Drive",108.99,Cherie Scrivener,27/03/2021
+35,"Kingston A400 480 GB 2.5"" Solid State Drive",84.99,Kylie Armstrong,24/04/2021
+36,ARCTIC Freezer 34 eSports DUO CPU Cooler,44.47,Gale Stringer,21/05/2021
+37,Asus GeForce GTX 1650 SUPER 4 GB TUF GAMING OC Video Card,179.99,Cherie Scrivener,17/04/2021
+38,AMD Ryzen 5 3600XT 3.8 GHz 6-Core Processor,44.47,Lettie Hodson,22/03/2021
+39,Patriot Signature Premium 16 GB (2 x 8 GB) DDR4-2666 CL19 Memory,78.95,Flo Cornett,24/02/2021
+40,"Kingston A400 480 GB 2.5"" Solid State Drive",829.99,Deon Hobson,08/05/2021
+41,MSI B460M PRO-VDH Micro ATX LGA1200 Motherboard,89.95,Lettie Hodson,20/02/2021
+42,Intel Core i3-10100 3.6 GHz Quad-Core Processor,57.49,Kristopher Summerfield,30/04/2021
+43,Lian Li Lancool II Mesh ATX Mid Tower Case,78.95,Cherie Scrivener,26/02/2021
+44,"Kingston A400 480 GB 2.5"" Solid State Drive",75.48,Kylie Armstrong,11/02/2021
+45,Samsung 970 Evo 500 GB M.2-2280 NVME Solid State Drive,75.48,Randall Best,05/05/2021
+46,Corsair Vengeance LPX 16 GB (2 x 8 GB) DDR4-3000 CL15 Memory,129.99,Earl Strickland,19/03/2021
+47,"Kingston A400 480 GB 2.5"" Solid State Drive",78.95,Flo Cornett,07/05/2021
+48,Corsair Vengeance LPX 16 GB (2 x 8 GB) DDR4-3000 CL15 Memory,829.99,Kristopher Summerfield,12/04/2021
+49,AMD Ryzen 5 3600XT 3.8 GHz 6-Core Processor,179.99,Cherie Scrivener,03/04/2021
+50,Asus ROG STRIX B550-I GAMING Mini ITX AM4 Motherboard,85.19,Deon Hobson,19/02/2021
+51,Lian Li Lancool II Mesh ATX Mid Tower Case,829.99,Randall Best,19/03/2021
+52,Corsair CXM (2015) 450 W 80+ Bronze Certified Semi-modular ATX Power Supply,249.99,Flo Cornett,15/02/2021
+53,Corsair RM (2019) 750 W 80+ Gold Certified Fully Modular ATX Power Supply,57.49,Randall Best,23/04/2021
+54,"Kingston A400 480 GB 2.5"" Solid State Drive",97.99,Deon Hobson,15/05/2021
+55,Crucial P1 1 TB M.2-2280 NVME Solid State Drive,54.75,Gale Stringer,06/05/2021
+56,PowerColor Radeon RX 550 - 512 4 GB Red Dragon Video Card,85.19,Lettie Hodson,03/05/2021
+57,Crucial P1 1 TB M.2-2280 NVME Solid State Drive,97.99,Deon Hobson,26/03/2021
+58,Samsung 970 Evo 500 GB M.2-2280 NVME Solid State Drive,85.19,Deon Hobson,05/05/2021
+59,Corsair CXM (2015) 450 W 80+ Bronze Certified Semi-modular ATX Power Supply,55.32,Gale Stringer,29/03/2021
+60,Samsung 970 Evo 500 GB M.2-2280 NVME Solid State Drive,829.99,Deon Hobson,04/03/2021
+61,ARCTIC Freezer 34 eSports DUO CPU Cooler,179.99,Gale Stringer,06/05/2021
+62,Patriot Signature Premium 16 GB (2 x 8 GB) DDR4-2666 CL19 Memory,179.99,Kylie Armstrong,13/04/2021
+63,"Kingston A400 480 GB 2.5"" Solid State Drive",75.48,Kylie Armstrong,29/03/2021
+64,Samsung 970 Evo 500 GB M.2-2280 NVME Solid State Drive,249.99,Randall Best,24/02/2021
+65,Corsair CXM (2015) 450 W 80+ Bronze Certified Semi-modular ATX Power Supply,179.99,Gale Stringer,30/05/2021
+66,Asus ROG Strix LC 120 80.95 CFM Liquid CPU Cooler,97.99,Kylie Armstrong,04/05/2021
+67,AMD Ryzen 5 3600XT 3.8 GHz 6-Core Processor,299.99,Lettie Hodson,19/05/2021
+68,Lian Li Lancool II Mesh ATX Mid Tower Case,54.75,Cherie Scrivener,11/03/2021
+69,ARCTIC Freezer 34 eSports DUO CPU Cooler,44.47,Flo Cornett,17/03/2021
+70,Corsair Vengeance LPX 16 GB (2 x 8 GB) DDR4-3000 CL15 Memory,97.99,Lettie Hodson,08/04/2021
+71,MSI B550-A PRO ATX AM4 Motherboard,109.98,Flo Cornett,01/02/2021
+72,NZXT H210 Mini ITX Tower Case,249.99,Elenora Ruskin,15/02/2021
+73,Corsair CXM (2015) 450 W 80+ Bronze Certified Semi-modular ATX Power Supply,249.99,Cherie Scrivener,23/02/2021
+74,PowerColor Radeon RX 550 - 512 4 GB Red Dragon Video Card,109.98,Randall Best,09/02/2021
+75,Palit GeForce RTX 3080 10 GB GamingPro Video Card,57.49,Lettie Hodson,19/04/2021
+76,Asus ROG Strix LC 120 80.95 CFM Liquid CPU Cooler,85.19,Lettie Hodson,03/03/2021
+77,ARCTIC Freezer 34 eSports DUO CPU Cooler,109.98,Lettie Hodson,16/02/2021
+78,Lian Li Lancool II Mesh ATX Mid Tower Case,85.19,Randall Best,28/03/2021
+79,NZXT H210 Mini ITX Tower Case,97.99,Lettie Hodson,21/03/2021
+80,AMD Ryzen 5 5600X 3.7 GHz 6-Core Processor,129.99,Randall Best,30/05/2021
+81,ARCTIC Freezer 34 eSports DUO CPU Cooler,85.19,Elenora Ruskin,07/02/2021
+82,Patriot Signature Premium 16 GB (2 x 8 GB) DDR4-2666 CL19 Memory,89.95,Kristopher Summerfield,08/04/2021
+83,MSI B460M PRO-VDH Micro ATX LGA1200 Motherboard,89.99,Lettie Hodson,31/03/2021
+84,NZXT H210 Mini ITX Tower Case,97.99,Cherie Scrivener,09/02/2021
+85,MSI B460M PRO-VDH Micro ATX LGA1200 Motherboard,97.99,Elenora Ruskin,20/04/2021
+86,Samsung 970 Evo 500 GB M.2-2280 NVME Solid State Drive,75.48,Gale Stringer,24/03/2021
+87,Palit GeForce RTX 3080 10 GB GamingPro Video Card,299.99,Deon Hobson,12/03/2021
+88,MSI B550-A PRO ATX AM4 Motherboard,249.99,Kylie Armstrong,04/05/2021
+89,MSI B550-A PRO ATX AM4 Motherboard,55.32,Elenora Ruskin,02/03/2021
+90,Corsair CXM (2015) 450 W 80+ Bronze Certified Semi-modular ATX Power Supply,269.99,Deon Hobson,05/04/2021
+91,Corsair RM (2019) 750 W 80+ Gold Certified Fully Modular ATX Power Supply,89.99,Randall Best,09/04/2021
+92,Lian Li Lancool II Mesh ATX Mid Tower Case,75.48,Cherie Scrivener,10/03/2021
+93,Lian Li Lancool II Mesh ATX Mid Tower Case,108.99,Deon Hobson,28/05/2021
+94,MSI B460M PRO-VDH Micro ATX LGA1200 Motherboard,129.99,Lettie Hodson,30/05/2021
+95,ARCTIC Freezer 34 eSports DUO CPU Cooler,108.99,Deon Hobson,20/02/2021
+96,ARCTIC Freezer 34 eSports DUO CPU Cooler,97.99,Kylie Armstrong,21/05/2021
+97,PowerColor Radeon RX 550 - 512 4 GB Red Dragon Video Card,85.19,Gale Stringer,07/05/2021
+98,Asus GeForce GTX 1650 SUPER 4 GB TUF GAMING OC Video Card,109.98,Flo Cornett,12/03/2021
+99,PowerColor Radeon RX 550 - 512 4 GB Red Dragon Video Card,129.99,Randall Best,06/05/2021
+100,Intel Core i3-10100 3.6 GHz Quad-Core Processor,44.47,Kristopher Summerfield,27/04/2021
+101,Intel Core i3-10100 3.6 GHz Quad-Core Processor,78.95,Gale Stringer,31/03/2021
+102,"Kingston A400 480 GB 2.5"" Solid State Drive",108.99,Kristopher Summerfield,13/04/2021
+103,"Kingston A400 480 GB 2.5"" Solid State Drive",99.95,Kristopher Summerfield,26/02/2021
+104,MSI B460M PRO-VDH Micro ATX LGA1200 Motherboard,44.47,Lettie Hodson,16/05/2021
+105,Crucial P1 1 TB M.2-2280 NVME Solid State Drive,55.32,Cherie Scrivener,25/04/2021
+106,AMD Ryzen 5 5600X 3.7 GHz 6-Core Processor,108.99,Cherie Scrivener,26/05/2021
+107,ARCTIC Freezer 34 eSports DUO CPU Cooler,86.7,Elenora Ruskin,20/02/2021
+108,Asus GeForce GTX 1650 SUPER 4 GB TUF GAMING OC Video Card,86.7,Kylie Armstrong,26/03/2021
+109,G.Skill Ripjaws V 16 GB (2 x 8 GB) DDR4-3600 CL16 Memory,99.95,Randall Best,15/02/2021
+110,G.Skill Ripjaws V 16 GB (2 x 8 GB) DDR4-3600 CL16 Memory,299.99,Cherie Scrivener,30/03/2021
+111,ARCTIC Freezer 34 eSports DUO CPU Cooler,89.95,Cherie Scrivener,10/04/2021
+112,Asus GeForce GTX 1650 SUPER 4 GB TUF GAMING OC Video Card,829.99,Kristopher Summerfield,10/02/2021
+113,AMD Ryzen 5 5600X 3.7 GHz 6-Core Processor,108.99,Elenora Ruskin,01/03/2021
+114,Samsung 970 Evo 500 GB M.2-2280 NVME Solid State Drive,109.98,Flo Cornett,17/05/2021
+115,Patriot Signature Premium 16 GB (2 x 8 GB) DDR4-2666 CL19 Memory,86.7,Randall Best,18/02/2021
+116,AMD Ryzen 5 3600XT 3.8 GHz 6-Core Processor,57.49,Kristopher Summerfield,10/03/2021
+117,Corsair Vengeance LPX 16 GB (2 x 8 GB) DDR4-3000 CL15 Memory,75.48,Randall Best,24/03/2021
+118,PowerColor Radeon RX 550 - 512 4 GB Red Dragon Video Card,129.99,Kylie Armstrong,28/05/2021
+119,"Kingston A400 480 GB 2.5"" Solid State Drive",109.98,Cherie Scrivener,01/04/2021
+120,Asus ROG Strix LC 120 80.95 CFM Liquid CPU Cooler,129.99,Lettie Hodson,13/02/2021
+121,Asus ROG Strix LC 120 80.95 CFM Liquid CPU Cooler,249.99,Earl Strickland,28/05/2021
+122,Samsung 970 Evo 500 GB M.2-2280 NVME Solid State Drive,57.49,Lettie Hodson,10/05/2021
+123,Lian Li Lancool II Mesh ATX Mid Tower Case,75.48,Kristopher Summerfield,22/02/2021
+124,ARCTIC Freezer 34 eSports DUO CPU Cooler,54.75,Kylie Armstrong,25/02/2021
+125,Asus ROG Strix LC 120 80.95 CFM Liquid CPU Cooler,86.7,Gale Stringer,04/05/2021
+126,AMD Ryzen 5 5600X 3.7 GHz 6-Core Processor,57.49,Cherie Scrivener,24/04/2021
+127,"Kingston A400 480 GB 2.5"" Solid State Drive",44.47,Flo Cornett,11/04/2021
+128,Patriot Signature Premium 16 GB (2 x 8 GB) DDR4-2666 CL19 Memory,829.99,Gale Stringer,22/05/2021
+129,Lian Li Lancool II Mesh ATX Mid Tower Case,179.99,Elenora Ruskin,26/04/2021
+130,Lian Li Lancool II Mesh ATX Mid Tower Case,78.95,Lettie Hodson,28/02/2021
+131,Palit GeForce RTX 3080 10 GB GamingPro Video Card,179.99,Elenora Ruskin,03/04/2021
+132,Palit GeForce RTX 3080 10 GB GamingPro Video Card,108.99,Earl Strickland,29/03/2021
+133,AMD Ryzen 5 3600XT 3.8 GHz 6-Core Processor,299.99,Randall Best,09/02/2021
+134,"Kingston A400 480 GB 2.5"" Solid State Drive",99.95,Gale Stringer,16/05/2021
+135,PowerColor Radeon RX 550 - 512 4 GB Red Dragon Video Card,299.99,Gale Stringer,16/02/2021
+136,Intel Core i3-10100 3.6 GHz Quad-Core Processor,89.95,Lettie Hodson,14/02/2021
+137,"Kingston A400 480 GB 2.5"" Solid State Drive",54.75,Gale Stringer,03/05/2021
+138,G.Skill Ripjaws V 16 GB (2 x 8 GB) DDR4-3600 CL16 Memory,86.7,Earl Strickland,03/04/2021
+139,NZXT H210 Mini ITX Tower Case,109.98,Cherie Scrivener,29/05/2021
+140,PowerColor Radeon RX 550 - 512 4 GB Red Dragon Video Card,78.95,Deon Hobson,20/05/2021
+141,Intel Core i3-10100 3.6 GHz Quad-Core Processor,99.95,Kristopher Summerfield,16/05/2021
+142,Patriot Signature Premium 16 GB (2 x 8 GB) DDR4-2666 CL19 Memory,44.47,Elenora Ruskin,16/04/2021
+143,MSI B550-A PRO ATX AM4 Motherboard,85.19,Lettie Hodson,29/05/2021
+144,Palit GeForce RTX 3080 10 GB GamingPro Video Card,269.99,Cherie Scrivener,06/05/2021
+145,Asus GeForce GTX 1650 SUPER 4 GB TUF GAMING OC Video Card,44.47,Elenora Ruskin,26/05/2021
+146,AMD Ryzen 5 5600X 3.7 GHz 6-Core Processor,108.99,Deon Hobson,07/03/2021
+147,Palit GeForce RTX 3080 10 GB GamingPro Video Card,179.99,Randall Best,26/02/2021
+148,AMD Ryzen 5 3600XT 3.8 GHz 6-Core Processor,55.32,Lettie Hodson,20/03/2021
+149,Corsair RM (2019) 750 W 80+ Gold Certified Fully Modular ATX Power Supply,44.47,Deon Hobson,06/04/2021
+150,MSI B460M PRO-VDH Micro ATX LGA1200 Motherboard,109.98,Lettie Hodson,19/04/2021
+151,Corsair RM (2019) 750 W 80+ Gold Certified Fully Modular ATX Power Supply,54.75,Elenora Ruskin,13/02/2021
+152,Asus ROG STRIX B550-I GAMING Mini ITX AM4 Motherboard,89.99,Earl Strickland,26/04/2021
+153,Asus ROG Strix LC 120 80.95 CFM Liquid CPU Cooler,86.7,Earl Strickland,14/03/2021
+154,Palit GeForce RTX 3080 10 GB GamingPro Video Card,299.99,Deon Hobson,10/03/2021
+155,"Kingston A400 480 GB 2.5"" Solid State Drive",89.95,Cherie Scrivener,22/04/2021
+156,AMD Ryzen 5 3600XT 3.8 GHz 6-Core Processor,299.99,Lettie Hodson,16/03/2021
+157,MSI B550-A PRO ATX AM4 Motherboard,75.48,Elenora Ruskin,16/02/2021
+158,Patriot Signature Premium 16 GB (2 x 8 GB) DDR4-2666 CL19 Memory,269.99,Deon Hobson,08/05/2021
+159,MSI B460M PRO-VDH Micro ATX LGA1200 Motherboard,97.99,Randall Best,13/04/2021
+160,ARCTIC Freezer 34 eSports DUO CPU Cooler,84.99,Cherie Scrivener,17/02/2021
+161,Asus ROG STRIX B550-I GAMING Mini ITX AM4 Motherboard,57.49,Lettie Hodson,27/05/2021
+162,Asus GeForce GTX 1650 SUPER 4 GB TUF GAMING OC Video Card,54.75,Flo Cornett,18/04/2021
+163,ARCTIC Freezer 34 eSports DUO CPU Cooler,109.98,Gale Stringer,23/03/2021
+164,PowerColor Radeon RX 550 - 512 4 GB Red Dragon Video Card,75.48,Lettie Hodson,08/03/2021
+165,ARCTIC Freezer 34 eSports DUO CPU Cooler,55.32,Randall Best,17/05/2021
+166,Asus GeForce GTX 1650 SUPER 4 GB TUF GAMING OC Video Card,829.99,Lettie Hodson,27/02/2021
+167,Asus ROG Strix LC 120 80.95 CFM Liquid CPU Cooler,129.99,Earl Strickland,07/04/2021
+168,"Kingston A400 480 GB 2.5"" Solid State Drive",75.48,Elenora Ruskin,29/03/2021
+169,Palit GeForce RTX 3080 10 GB GamingPro Video Card,99.95,Elenora Ruskin,09/04/2021
+170,Corsair CXM (2015) 450 W 80+ Bronze Certified Semi-modular ATX Power Supply,57.49,Cherie Scrivener,09/02/2021
+171,MSI B550-A PRO ATX AM4 Motherboard,89.99,Randall Best,01/05/2021
+172,MSI B550-A PRO ATX AM4 Motherboard,269.99,Earl Strickland,25/02/2021
+173,PowerColor Radeon RX 550 - 512 4 GB Red Dragon Video Card,57.49,Gale Stringer,01/05/2021
+174,PowerColor Radeon RX 550 - 512 4 GB Red Dragon Video Card,269.99,Gale Stringer,12/03/2021
+175,"Kingston A400 480 GB 2.5"" Solid State Drive",97.99,Lettie Hodson,12/02/2021
+176,Corsair Vengeance LPX 16 GB (2 x 8 GB) DDR4-3000 CL15 Memory,78.95,Randall Best,01/03/2021
+177,Corsair CXM (2015) 450 W 80+ Bronze Certified Semi-modular ATX Power Supply,54.75,Kristopher Summerfield,18/03/2021
+178,MSI B460M PRO-VDH Micro ATX LGA1200 Motherboard,249.99,Deon Hobson,26/03/2021
+179,ARCTIC Freezer 34 eSports DUO CPU Cooler,249.99,Deon Hobson,21/05/2021
+180,Lian Li Lancool II Mesh ATX Mid Tower Case,54.75,Kylie Armstrong,30/05/2021
+181,Asus GeForce GTX 1650 SUPER 4 GB TUF GAMING OC Video Card,299.99,Randall Best,24/05/2021
+182,Crucial P1 1 TB M.2-2280 NVME Solid State Drive,99.95,Elenora Ruskin,26/03/2021
+183,MSI B460M PRO-VDH Micro ATX LGA1200 Motherboard,249.99,Randall Best,24/04/2021
+184,AMD Ryzen 5 3600XT 3.8 GHz 6-Core Processor,109.98,Cherie Scrivener,14/04/2021
+185,Intel Core i3-10100 3.6 GHz Quad-Core Processor,57.49,Lettie Hodson,10/05/2021
+186,G.Skill Ripjaws V 16 GB (2 x 8 GB) DDR4-3600 CL16 Memory,829.99,Gale Stringer,22/03/2021
+187,Crucial P1 1 TB M.2-2280 NVME Solid State Drive,129.99,Kylie Armstrong,02/04/2021
+188,MSI B460M PRO-VDH Micro ATX LGA1200 Motherboard,89.95,Randall Best,21/02/2021
+189,Intel Core i3-10100 3.6 GHz Quad-Core Processor,44.47,Flo Cornett,30/05/2021
+190,Corsair RM (2019) 750 W 80+ Gold Certified Fully Modular ATX Power Supply,44.47,Kristopher Summerfield,02/04/2021
+191,PowerColor Radeon RX 550 - 512 4 GB Red Dragon Video Card,89.95,Flo Cornett,24/02/2021
+192,Corsair RM (2019) 750 W 80+ Gold Certified Fully Modular ATX Power Supply,269.99,Flo Cornett,30/05/2021
+193,AMD Ryzen 5 3600XT 3.8 GHz 6-Core Processor,179.99,Earl Strickland,02/04/2021
+194,MSI B550-A PRO ATX AM4 Motherboard,75.48,Deon Hobson,20/03/2021
+195,MSI B460M PRO-VDH Micro ATX LGA1200 Motherboard,249.99,Flo Cornett,18/02/2021
+196,"Kingston A400 480 GB 2.5"" Solid State Drive",57.49,Lettie Hodson,16/05/2021
+197,Intel Core i3-10100 3.6 GHz Quad-Core Processor,89.99,Kristopher Summerfield,08/05/2021
+198,Lian Li Lancool II Mesh ATX Mid Tower Case,109.98,Earl Strickland,16/02/2021
+199,"Kingston A400 480 GB 2.5"" Solid State Drive",249.99,Flo Cornett,21/03/2021
+200,Patriot Signature Premium 16 GB (2 x 8 GB) DDR4-2666 CL19 Memory,44.47,Kristopher Summerfield,13/02/2021
+201,MSI B460M PRO-VDH Micro ATX LGA1200 Motherboard,55.32,Cherie Scrivener,22/04/2021
+202,"Kingston A400 480 GB 2.5"" Solid State Drive",829.99,Deon Hobson,11/04/2021
+203,Corsair RM (2019) 750 W 80+ Gold Certified Fully Modular ATX Power Supply,89.99,Deon Hobson,20/05/2021
+204,Asus ROG STRIX B550-I GAMING Mini ITX AM4 Motherboard,829.99,Elenora Ruskin,24/03/2021
+205,Corsair RM (2019) 750 W 80+ Gold Certified Fully Modular ATX Power Supply,85.19,Lettie Hodson,23/05/2021
+206,MSI B550-A PRO ATX AM4 Motherboard,86.7,Cherie Scrivener,02/03/2021
+207,MSI B550-A PRO ATX AM4 Motherboard,179.99,Kristopher Summerfield,19/03/2021
+208,ARCTIC Freezer 34 eSports DUO CPU Cooler,829.99,Kristopher Summerfield,04/03/2021
+209,Asus ROG Strix LC 120 80.95 CFM Liquid CPU Cooler,54.75,Earl Strickland,19/03/2021
+210,PowerColor Radeon RX 550 - 512 4 GB Red Dragon Video Card,99.95,Earl Strickland,26/05/2021
+211,Corsair RM (2019) 750 W 80+ Gold Certified Fully Modular ATX Power Supply,829.99,Randall Best,06/02/2021
+212,Corsair RM (2019) 750 W 80+ Gold Certified Fully Modular ATX Power Supply,89.95,Cherie Scrivener,18/05/2021
+213,Samsung 970 Evo 500 GB M.2-2280 NVME Solid State Drive,54.75,Deon Hobson,09/04/2021
+214,Intel Core i3-10100 3.6 GHz Quad-Core Processor,249.99,Flo Cornett,16/04/2021
+215,Palit GeForce RTX 3080 10 GB GamingPro Video Card,85.19,Gale Stringer,11/04/2021
+216,AMD Ryzen 5 3600XT 3.8 GHz 6-Core Processor,829.99,Kristopher Summerfield,07/02/2021
+217,Asus ROG Strix LC 120 80.95 CFM Liquid CPU Cooler,78.95,Flo Cornett,06/02/2021
+218,"Kingston A400 480 GB 2.5"" Solid State Drive",44.47,Deon Hobson,12/03/2021
+219,Corsair RM (2019) 750 W 80+ Gold Certified Fully Modular ATX Power Supply,78.95,Gale Stringer,22/03/2021
+220,ARCTIC Freezer 34 eSports DUO CPU Cooler,129.99,Randall Best,14/03/2021
+221,ARCTIC Freezer 34 eSports DUO CPU Cooler,829.99,Deon Hobson,08/03/2021
+222,AMD Ryzen 5 5600X 3.7 GHz 6-Core Processor,86.7,Lettie Hodson,22/03/2021
+223,ARCTIC Freezer 34 eSports DUO CPU Cooler,89.95,Kristopher Summerfield,22/03/2021
+224,Crucial P1 1 TB M.2-2280 NVME Solid State Drive,829.99,Elenora Ruskin,31/05/2021
+225,Corsair CXM (2015) 450 W 80+ Bronze Certified Semi-modular ATX Power Supply,129.99,Lettie Hodson,09/05/2021
+226,Crucial P1 1 TB M.2-2280 NVME Solid State Drive,55.32,Randall Best,13/05/2021
+227,MSI B460M PRO-VDH Micro ATX LGA1200 Motherboard,55.32,Gale Stringer,03/05/2021
+228,AMD Ryzen 5 3600XT 3.8 GHz 6-Core Processor,97.99,Cherie Scrivener,07/05/2021
+229,Intel Core i3-10100 3.6 GHz Quad-Core Processor,89.99,Gale Stringer,15/05/2021
+230,AMD Ryzen 5 5600X 3.7 GHz 6-Core Processor,89.99,Elenora Ruskin,21/03/2021
+231,Corsair CXM (2015) 450 W 80+ Bronze Certified Semi-modular ATX Power Supply,89.99,Cherie Scrivener,09/03/2021
+232,Corsair Vengeance LPX 16 GB (2 x 8 GB) DDR4-3000 CL15 Memory,85.19,Deon Hobson,06/03/2021
+233,MSI B550-A PRO ATX AM4 Motherboard,75.48,Kylie Armstrong,31/03/2021
+234,Palit GeForce RTX 3080 10 GB GamingPro Video Card,97.99,Earl Strickland,17/02/2021
+235,Intel Core i3-10100 3.6 GHz Quad-Core Processor,97.99,Randall Best,28/04/2021
+236,Palit GeForce RTX 3080 10 GB GamingPro Video Card,75.48,Earl Strickland,22/05/2021
+237,Palit GeForce RTX 3080 10 GB GamingPro Video Card,109.98,Deon Hobson,17/02/2021
+238,Patriot Signature Premium 16 GB (2 x 8 GB) DDR4-2666 CL19 Memory,249.99,Kylie Armstrong,01/04/2021
+239,Intel Core i3-10100 3.6 GHz Quad-Core Processor,99.95,Earl Strickland,24/03/2021
+240,AMD Ryzen 5 3600XT 3.8 GHz 6-Core Processor,108.99,Cherie Scrivener,08/04/2021
+241,"Kingston A400 480 GB 2.5"" Solid State Drive",84.99,Cherie Scrivener,11/03/2021
+242,MSI B550-A PRO ATX AM4 Motherboard,249.99,Elenora Ruskin,21/02/2021
+243,ARCTIC Freezer 34 eSports DUO CPU Cooler,84.99,Elenora Ruskin,19/05/2021
+244,AMD Ryzen 5 5600X 3.7 GHz 6-Core Processor,44.47,Kristopher Summerfield,02/05/2021
+245,Corsair RM (2019) 750 W 80+ Gold Certified Fully Modular ATX Power Supply,249.99,Flo Cornett,09/03/2021
+246,MSI B460M PRO-VDH Micro ATX LGA1200 Motherboard,108.99,Flo Cornett,03/02/2021
+247,Asus ROG STRIX B550-I GAMING Mini ITX AM4 Motherboard,89.95,Gale Stringer,10/04/2021
+248,Corsair Vengeance LPX 16 GB (2 x 8 GB) DDR4-3000 CL15 Memory,97.99,Kylie Armstrong,03/03/2021
+249,Lian Li Lancool II Mesh ATX Mid Tower Case,109.98,Elenora Ruskin,05/03/2021
+250,Samsung 970 Evo 500 GB M.2-2280 NVME Solid State Drive,829.99,Kylie Armstrong,20/02/2021
+251,AMD Ryzen 5 5600X 3.7 GHz 6-Core Processor,97.99,Kylie Armstrong,20/05/2021
+252,Crucial P1 1 TB M.2-2280 NVME Solid State Drive,84.99,Elenora Ruskin,21/04/2021
+253,NZXT H210 Mini ITX Tower Case,44.47,Deon Hobson,15/04/2021
+254,MSI B460M PRO-VDH Micro ATX LGA1200 Motherboard,78.95,Kristopher Summerfield,23/04/2021
+255,Asus ROG STRIX B550-I GAMING Mini ITX AM4 Motherboard,109.98,Flo Cornett,27/05/2021
+256,Samsung 970 Evo 500 GB M.2-2280 NVME Solid State Drive,78.95,Gale Stringer,02/04/2021
+257,Corsair Vengeance LPX 16 GB (2 x 8 GB) DDR4-3000 CL15 Memory,269.99,Elenora Ruskin,25/05/2021
+258,MSI B460M PRO-VDH Micro ATX LGA1200 Motherboard,86.7,Kylie Armstrong,27/04/2021
+259,AMD Ryzen 5 3600XT 3.8 GHz 6-Core Processor,89.99,Gale Stringer,06/02/2021
+260,Corsair RM (2019) 750 W 80+ Gold Certified Fully Modular ATX Power Supply,84.99,Gale Stringer,06/03/2021
+261,Corsair Vengeance LPX 16 GB (2 x 8 GB) DDR4-3000 CL15 Memory,57.49,Gale Stringer,06/05/2021
+262,NZXT H210 Mini ITX Tower Case,54.75,Gale Stringer,07/05/2021
+263,MSI B550-A PRO ATX AM4 Motherboard,829.99,Gale Stringer,04/05/2021
+264,G.Skill Ripjaws V 16 GB (2 x 8 GB) DDR4-3600 CL16 Memory,84.99,Earl Strickland,01/04/2021
+265,ARCTIC Freezer 34 eSports DUO CPU Cooler,54.75,Kylie Armstrong,09/05/2021
+266,Palit GeForce RTX 3080 10 GB GamingPro Video Card,89.95,Kristopher Summerfield,05/04/2021
+267,AMD Ryzen 5 3600XT 3.8 GHz 6-Core Processor,249.99,Cherie Scrivener,03/05/2021
+268,Corsair RM (2019) 750 W 80+ Gold Certified Fully Modular ATX Power Supply,44.47,Flo Cornett,23/03/2021
+269,Patriot Signature Premium 16 GB (2 x 8 GB) DDR4-2666 CL19 Memory,55.32,Earl Strickland,16/02/2021
+270,Corsair RM (2019) 750 W 80+ Gold Certified Fully Modular ATX Power Supply,99.95,Kylie Armstrong,07/05/2021
+271,Corsair Vengeance LPX 16 GB (2 x 8 GB) DDR4-3000 CL15 Memory,55.32,Cherie Scrivener,23/05/2021
+272,Crucial P1 1 TB M.2-2280 NVME Solid State Drive,129.99,Deon Hobson,05/05/2021
+273,Asus ROG Strix LC 120 80.95 CFM Liquid CPU Cooler,89.95,Flo Cornett,04/02/2021
+274,Asus ROG STRIX B550-I GAMING Mini ITX AM4 Motherboard,269.99,Randall Best,08/05/2021
+275,G.Skill Ripjaws V 16 GB (2 x 8 GB) DDR4-3600 CL16 Memory,269.99,Gale Stringer,09/05/2021
+276,Crucial P1 1 TB M.2-2280 NVME Solid State Drive,109.98,Randall Best,11/02/2021
+277,Palit GeForce RTX 3080 10 GB GamingPro Video Card,54.75,Lettie Hodson,01/02/2021
+278,Corsair Vengeance LPX 16 GB (2 x 8 GB) DDR4-3000 CL15 Memory,54.75,Kristopher Summerfield,21/05/2021
+279,Corsair CXM (2015) 450 W 80+ Bronze Certified Semi-modular ATX Power Supply,99.95,Kristopher Summerfield,31/05/2021
+280,AMD Ryzen 5 3600XT 3.8 GHz 6-Core Processor,55.32,Lettie Hodson,17/04/2021
+281,AMD Ryzen 5 3600XT 3.8 GHz 6-Core Processor,55.32,Elenora Ruskin,14/05/2021
+282,AMD Ryzen 5 3600XT 3.8 GHz 6-Core Processor,54.75,Kristopher Summerfield,15/04/2021
+283,Crucial P1 1 TB M.2-2280 NVME Solid State Drive,84.99,Deon Hobson,04/02/2021
+284,Crucial P1 1 TB M.2-2280 NVME Solid State Drive,75.48,Randall Best,09/04/2021
+285,Lian Li Lancool II Mesh ATX Mid Tower Case,299.99,Deon Hobson,26/02/2021
+286,Corsair CXM (2015) 450 W 80+ Bronze Certified Semi-modular ATX Power Supply,249.99,Deon Hobson,03/04/2021
+287,Corsair RM (2019) 750 W 80+ Gold Certified Fully Modular ATX Power Supply,54.75,Earl Strickland,19/02/2021
+288,Asus ROG STRIX B550-I GAMING Mini ITX AM4 Motherboard,85.19,Elenora Ruskin,22/03/2021
+289,ARCTIC Freezer 34 eSports DUO CPU Cooler,55.32,Cherie Scrivener,23/02/2021
+290,AMD Ryzen 5 3600XT 3.8 GHz 6-Core Processor,179.99,Deon Hobson,12/02/2021
+291,PowerColor Radeon RX 550 - 512 4 GB Red Dragon Video Card,78.95,Gale Stringer,24/04/2021
+292,G.Skill Ripjaws V 16 GB (2 x 8 GB) DDR4-3600 CL16 Memory,84.99,Kylie Armstrong,02/05/2021
+293,"Kingston A400 480 GB 2.5"" Solid State Drive",269.99,Kristopher Summerfield,07/04/2021
+294,Asus ROG Strix LC 120 80.95 CFM Liquid CPU Cooler,108.99,Flo Cornett,09/05/2021
+295,ARCTIC Freezer 34 eSports DUO CPU Cooler,108.99,Kylie Armstrong,20/02/2021
+296,G.Skill Ripjaws V 16 GB (2 x 8 GB) DDR4-3600 CL16 Memory,129.99,Elenora Ruskin,19/05/2021
+297,Corsair CXM (2015) 450 W 80+ Bronze Certified Semi-modular ATX Power Supply,99.95,Randall Best,24/05/2021
+298,"Kingston A400 480 GB 2.5"" Solid State Drive",85.19,Randall Best,05/04/2021
+299,MSI B460M PRO-VDH Micro ATX LGA1200 Motherboard,44.47,Gale Stringer,06/03/2021
+300,Samsung 970 Evo 500 GB M.2-2280 NVME Solid State Drive,89.95,Cherie Scrivener,12/03/2021
+301,NZXT H210 Mini ITX Tower Case,97.99,Cherie Scrivener,20/03/2021
+302,Patriot Signature Premium 16 GB (2 x 8 GB) DDR4-2666 CL19 Memory,78.95,Gale Stringer,24/05/2021
+303,Intel Core i3-10100 3.6 GHz Quad-Core Processor,299.99,Gale Stringer,27/05/2021
+304,G.Skill Ripjaws V 16 GB (2 x 8 GB) DDR4-3600 CL16 Memory,84.99,Lettie Hodson,31/03/2021
+305,Patriot Signature Premium 16 GB (2 x 8 GB) DDR4-2666 CL19 Memory,78.95,Kylie Armstrong,21/02/2021
+306,Patriot Signature Premium 16 GB (2 x 8 GB) DDR4-2666 CL19 Memory,109.98,Deon Hobson,13/05/2021
+307,AMD Ryzen 5 5600X 3.7 GHz 6-Core Processor,78.95,Deon Hobson,22/02/2021
+308,PowerColor Radeon RX 550 - 512 4 GB Red Dragon Video Card,78.95,Flo Cornett,16/04/2021
+309,Palit GeForce RTX 3080 10 GB GamingPro Video Card,249.99,Lettie Hodson,26/02/2021
+310,Palit GeForce RTX 3080 10 GB GamingPro Video Card,84.99,Elenora Ruskin,02/04/2021
+311,Lian Li Lancool II Mesh ATX Mid Tower Case,299.99,Kylie Armstrong,08/03/2021
+312,Corsair RM (2019) 750 W 80+ Gold Certified Fully Modular ATX Power Supply,99.95,Cherie Scrivener,09/03/2021
+313,Intel Core i3-10100 3.6 GHz Quad-Core Processor,55.32,Elenora Ruskin,03/03/2021
+314,NZXT H210 Mini ITX Tower Case,129.99,Kristopher Summerfield,08/05/2021
+315,MSI B550-A PRO ATX AM4 Motherboard,129.99,Lettie Hodson,12/03/2021
+316,Intel Core i3-10100 3.6 GHz Quad-Core Processor,75.48,Kristopher Summerfield,22/04/2021
+317,Corsair Vengeance LPX 16 GB (2 x 8 GB) DDR4-3000 CL15 Memory,109.98,Kristopher Summerfield,29/04/2021
+318,AMD Ryzen 5 3600XT 3.8 GHz 6-Core Processor,109.98,Kylie Armstrong,12/02/2021
+319,AMD Ryzen 5 5600X 3.7 GHz 6-Core Processor,108.99,Gale Stringer,03/05/2021
+320,Crucial P1 1 TB M.2-2280 NVME Solid State Drive,89.95,Cherie Scrivener,08/03/2021
+321,NZXT H210 Mini ITX Tower Case,89.99,Lettie Hodson,13/03/2021
+322,Samsung 970 Evo 500 GB M.2-2280 NVME Solid State Drive,129.99,Deon Hobson,04/05/2021
+323,"Kingston A400 480 GB 2.5"" Solid State Drive",129.99,Kylie Armstrong,13/05/2021
+324,Crucial P1 1 TB M.2-2280 NVME Solid State Drive,78.95,Lettie Hodson,07/02/2021
+325,Asus ROG STRIX B550-I GAMING Mini ITX AM4 Motherboard,269.99,Cherie Scrivener,21/02/2021
+326,AMD Ryzen 5 3600XT 3.8 GHz 6-Core Processor,179.99,Deon Hobson,19/03/2021
+327,MSI B550-A PRO ATX AM4 Motherboard,85.19,Deon Hobson,25/04/2021
+328,Crucial P1 1 TB M.2-2280 NVME Solid State Drive,129.99,Kristopher Summerfield,11/04/2021
+329,Corsair Vengeance LPX 16 GB (2 x 8 GB) DDR4-3000 CL15 Memory,89.99,Elenora Ruskin,14/04/2021
+330,G.Skill Ripjaws V 16 GB (2 x 8 GB) DDR4-3600 CL16 Memory,109.98,Earl Strickland,16/02/2021
+331,Asus ROG STRIX B550-I GAMING Mini ITX AM4 Motherboard,249.99,Gale Stringer,03/05/2021
+332,ARCTIC Freezer 34 eSports DUO CPU Cooler,54.75,Lettie Hodson,29/05/2021
+333,Lian Li Lancool II Mesh ATX Mid Tower Case,89.99,Deon Hobson,29/03/2021
+334,ARCTIC Freezer 34 eSports DUO CPU Cooler,75.48,Gale Stringer,14/04/2021
+335,"Kingston A400 480 GB 2.5"" Solid State Drive",129.99,Gale Stringer,17/04/2021
+336,Asus ROG Strix LC 120 80.95 CFM Liquid CPU Cooler,99.95,Kristopher Summerfield,14/03/2021
+337,G.Skill Ripjaws V 16 GB (2 x 8 GB) DDR4-3600 CL16 Memory,129.99,Kylie Armstrong,15/02/2021
+338,MSI B460M PRO-VDH Micro ATX LGA1200 Motherboard,44.47,Cherie Scrivener,29/05/2021
+339,MSI B550-A PRO ATX AM4 Motherboard,44.47,Flo Cornett,09/04/2021
+340,Samsung 970 Evo 500 GB M.2-2280 NVME Solid State Drive,108.99,Cherie Scrivener,20/03/2021
+341,Asus ROG STRIX B550-I GAMING Mini ITX AM4 Motherboard,75.48,Earl Strickland,10/03/2021
+342,ARCTIC Freezer 34 eSports DUO CPU Cooler,179.99,Kristopher Summerfield,19/04/2021
+343,Patriot Signature Premium 16 GB (2 x 8 GB) DDR4-2666 CL19 Memory,86.7,Kylie Armstrong,28/04/2021
+344,AMD Ryzen 5 5600X 3.7 GHz 6-Core Processor,99.95,Lettie Hodson,18/05/2021
+345,Asus ROG STRIX B550-I GAMING Mini ITX AM4 Motherboard,86.7,Deon Hobson,06/03/2021
+346,PowerColor Radeon RX 550 - 512 4 GB Red Dragon Video Card,97.99,Randall Best,09/04/2021
+347,MSI B460M PRO-VDH Micro ATX LGA1200 Motherboard,78.95,Kristopher Summerfield,04/04/2021
+348,Crucial P1 1 TB M.2-2280 NVME Solid State Drive,78.95,Elenora Ruskin,02/02/2021
+349,MSI B550-A PRO ATX AM4 Motherboard,99.95,Cherie Scrivener,20/04/2021
+350,"Kingston A400 480 GB 2.5"" Solid State Drive",86.7,Elenora Ruskin,20/04/2021
+351,Samsung 970 Evo 500 GB M.2-2280 NVME Solid State Drive,89.95,Deon Hobson,10/04/2021
+352,Palit GeForce RTX 3080 10 GB GamingPro Video Card,54.75,Kristopher Summerfield,20/05/2021
+353,Patriot Signature Premium 16 GB (2 x 8 GB) DDR4-2666 CL19 Memory,44.47,Lettie Hodson,04/03/2021
+354,Patriot Signature Premium 16 GB (2 x 8 GB) DDR4-2666 CL19 Memory,57.49,Randall Best,18/03/2021
+355,"Kingston A400 480 GB 2.5"" Solid State Drive",299.99,Kristopher Summerfield,15/03/2021
+356,Asus GeForce GTX 1650 SUPER 4 GB TUF GAMING OC Video Card,179.99,Deon Hobson,07/05/2021
+357,Asus GeForce GTX 1650 SUPER 4 GB TUF GAMING OC Video Card,86.7,Kristopher Summerfield,03/04/2021
+358,Intel Core i3-10100 3.6 GHz Quad-Core Processor,57.49,Kylie Armstrong,09/04/2021
+359,Lian Li Lancool II Mesh ATX Mid Tower Case,44.47,Kristopher Summerfield,18/02/2021
+360,AMD Ryzen 5 3600XT 3.8 GHz 6-Core Processor,86.7,Deon Hobson,22/04/2021
+361,AMD Ryzen 5 5600X 3.7 GHz 6-Core Processor,108.99,Kristopher Summerfield,15/05/2021
+362,Patriot Signature Premium 16 GB (2 x 8 GB) DDR4-2666 CL19 Memory,829.99,Deon Hobson,30/05/2021
+363,Samsung 970 Evo 500 GB M.2-2280 NVME Solid State Drive,78.95,Flo Cornett,17/03/2021
+364,Asus ROG STRIX B550-I GAMING Mini ITX AM4 Motherboard,99.95,Cherie Scrivener,11/04/2021
+365,NZXT H210 Mini ITX Tower Case,299.99,Kylie Armstrong,14/02/2021
+366,MSI B460M PRO-VDH Micro ATX LGA1200 Motherboard,108.99,Elenora Ruskin,30/05/2021
+367,Patriot Signature Premium 16 GB (2 x 8 GB) DDR4-2666 CL19 Memory,108.99,Cherie Scrivener,31/03/2021
+368,AMD Ryzen 5 3600XT 3.8 GHz 6-Core Processor,249.99,Cherie Scrivener,13/04/2021
+369,Asus ROG Strix LC 120 80.95 CFM Liquid CPU Cooler,75.48,Lettie Hodson,13/05/2021
+370,Asus ROG Strix LC 120 80.95 CFM Liquid CPU Cooler,179.99,Randall Best,20/04/2021
+371,Asus ROG STRIX B550-I GAMING Mini ITX AM4 Motherboard,89.99,Gale Stringer,22/02/2021
+372,Samsung 970 Evo 500 GB M.2-2280 NVME Solid State Drive,75.48,Flo Cornett,21/03/2021
+373,Crucial P1 1 TB M.2-2280 NVME Solid State Drive,85.19,Lettie Hodson,27/04/2021
+374,G.Skill Ripjaws V 16 GB (2 x 8 GB) DDR4-3600 CL16 Memory,89.95,Flo Cornett,19/02/2021
+375,AMD Ryzen 5 5600X 3.7 GHz 6-Core Processor,89.99,Cherie Scrivener,01/02/2021
+376,Asus ROG STRIX B550-I GAMING Mini ITX AM4 Motherboard,44.47,Cherie Scrivener,01/02/2021
+377,G.Skill Ripjaws V 16 GB (2 x 8 GB) DDR4-3600 CL16 Memory,99.95,Gale Stringer,22/03/2021
+378,Crucial P1 1 TB M.2-2280 NVME Solid State Drive,84.99,Lettie Hodson,23/03/2021
+379,MSI B550-A PRO ATX AM4 Motherboard,97.99,Kristopher Summerfield,20/03/2021
+380,Asus GeForce GTX 1650 SUPER 4 GB TUF GAMING OC Video Card,85.19,Kylie Armstrong,29/03/2021
+381,Intel Core i3-10100 3.6 GHz Quad-Core Processor,84.99,Elenora Ruskin,21/03/2021
+382,AMD Ryzen 5 3600XT 3.8 GHz 6-Core Processor,84.99,Deon Hobson,19/04/2021
+383,G.Skill Ripjaws V 16 GB (2 x 8 GB) DDR4-3600 CL16 Memory,89.95,Cherie Scrivener,03/05/2021
+384,Intel Core i3-10100 3.6 GHz Quad-Core Processor,108.99,Randall Best,07/05/2021
+385,NZXT H210 Mini ITX Tower Case,55.32,Gale Stringer,14/04/2021
+386,Asus GeForce GTX 1650 SUPER 4 GB TUF GAMING OC Video Card,129.99,Gale Stringer,02/05/2021
+387,Asus ROG STRIX B550-I GAMING Mini ITX AM4 Motherboard,129.99,Deon Hobson,12/02/2021
+388,Corsair Vengeance LPX 16 GB (2 x 8 GB) DDR4-3000 CL15 Memory,86.7,Cherie Scrivener,14/04/2021
+389,Corsair Vengeance LPX 16 GB (2 x 8 GB) DDR4-3000 CL15 Memory,89.95,Cherie Scrivener,23/05/2021
+390,Crucial P1 1 TB M.2-2280 NVME Solid State Drive,179.99,Elenora Ruskin,26/05/2021
+391,MSI B460M PRO-VDH Micro ATX LGA1200 Motherboard,249.99,Randall Best,27/05/2021
+392,AMD Ryzen 5 3600XT 3.8 GHz 6-Core Processor,99.95,Kristopher Summerfield,19/04/2021
+393,MSI B460M PRO-VDH Micro ATX LGA1200 Motherboard,108.99,Kristopher Summerfield,11/03/2021
+394,Corsair Vengeance LPX 16 GB (2 x 8 GB) DDR4-3000 CL15 Memory,108.99,Earl Strickland,03/03/2021
+395,Asus ROG Strix LC 120 80.95 CFM Liquid CPU Cooler,109.98,Flo Cornett,14/03/2021
+396,Samsung 970 Evo 500 GB M.2-2280 NVME Solid State Drive,299.99,Elenora Ruskin,27/05/2021
+397,Corsair CXM (2015) 450 W 80+ Bronze Certified Semi-modular ATX Power Supply,299.99,Flo Cornett,16/04/2021
+398,Asus ROG STRIX B550-I GAMING Mini ITX AM4 Motherboard,269.99,Deon Hobson,03/05/2021
+399,G.Skill Ripjaws V 16 GB (2 x 8 GB) DDR4-3600 CL16 Memory,179.99,Kristopher Summerfield,16/02/2021
+400,G.Skill Ripjaws V 16 GB (2 x 8 GB) DDR4-3600 CL16 Memory,108.99,Kristopher Summerfield,09/04/2021
+401,Corsair Vengeance LPX 16 GB (2 x 8 GB) DDR4-3000 CL15 Memory,89.95,Elenora Ruskin,18/04/2021
+402,Samsung 970 Evo 500 GB M.2-2280 NVME Solid State Drive,84.99,Deon Hobson,25/05/2021
+403,NZXT H210 Mini ITX Tower Case,75.48,Lettie Hodson,08/05/2021
+404,NZXT H210 Mini ITX Tower Case,129.99,Gale Stringer,11/03/2021
+405,Asus ROG STRIX B550-I GAMING Mini ITX AM4 Motherboard,129.99,Deon Hobson,14/05/2021
+406,AMD Ryzen 5 5600X 3.7 GHz 6-Core Processor,78.95,Cherie Scrivener,25/04/2021
+407,MSI B460M PRO-VDH Micro ATX LGA1200 Motherboard,85.19,Gale Stringer,01/03/2021
+408,MSI B460M PRO-VDH Micro ATX LGA1200 Motherboard,179.99,Earl Strickland,21/04/2021
+409,AMD Ryzen 5 5600X 3.7 GHz 6-Core Processor,44.47,Flo Cornett,04/02/2021
+410,Samsung 970 Evo 500 GB M.2-2280 NVME Solid State Drive,57.49,Deon Hobson,24/03/2021
+411,Samsung 970 Evo 500 GB M.2-2280 NVME Solid State Drive,78.95,Flo Cornett,01/05/2021
+412,Corsair Vengeance LPX 16 GB (2 x 8 GB) DDR4-3000 CL15 Memory,179.99,Earl Strickland,17/02/2021
+413,MSI B460M PRO-VDH Micro ATX LGA1200 Motherboard,249.99,Kristopher Summerfield,01/04/2021
+414,Samsung 970 Evo 500 GB M.2-2280 NVME Solid State Drive,57.49,Deon Hobson,16/05/2021
+415,PowerColor Radeon RX 550 - 512 4 GB Red Dragon Video Card,89.95,Kylie Armstrong,11/03/2021
+416,MSI B550-A PRO ATX AM4 Motherboard,129.99,Gale Stringer,25/04/2021
+417,Patriot Signature Premium 16 GB (2 x 8 GB) DDR4-2666 CL19 Memory,55.32,Elenora Ruskin,15/04/2021
+418,Asus ROG Strix LC 120 80.95 CFM Liquid CPU Cooler,78.95,Randall Best,25/03/2021
+419,Samsung 970 Evo 500 GB M.2-2280 NVME Solid State Drive,54.75,Earl Strickland,07/05/2021
+420,Intel Core i3-10100 3.6 GHz Quad-Core Processor,44.47,Flo Cornett,23/05/2021
+421,PowerColor Radeon RX 550 - 512 4 GB Red Dragon Video Card,108.99,Earl Strickland,25/03/2021
+422,MSI B460M PRO-VDH Micro ATX LGA1200 Motherboard,57.49,Kristopher Summerfield,06/02/2021
+423,Intel Core i3-10100 3.6 GHz Quad-Core Processor,78.95,Randall Best,16/02/2021
+424,G.Skill Ripjaws V 16 GB (2 x 8 GB) DDR4-3600 CL16 Memory,829.99,Lettie Hodson,24/03/2021
+425,Corsair RM (2019) 750 W 80+ Gold Certified Fully Modular ATX Power Supply,299.99,Flo Cornett,24/03/2021
+426,MSI B550-A PRO ATX AM4 Motherboard,108.99,Kylie Armstrong,07/04/2021
+427,MSI B550-A PRO ATX AM4 Motherboard,299.99,Flo Cornett,25/04/2021
+428,Crucial P1 1 TB M.2-2280 NVME Solid State Drive,85.19,Randall Best,09/02/2021
+429,MSI B550-A PRO ATX AM4 Motherboard,89.99,Randall Best,17/04/2021
+430,Samsung 970 Evo 500 GB M.2-2280 NVME Solid State Drive,129.99,Cherie Scrivener,19/03/2021
+431,PowerColor Radeon RX 550 - 512 4 GB Red Dragon Video Card,269.99,Randall Best,18/05/2021
+432,MSI B460M PRO-VDH Micro ATX LGA1200 Motherboard,89.95,Elenora Ruskin,07/02/2021
+433,MSI B460M PRO-VDH Micro ATX LGA1200 Motherboard,86.7,Kristopher Summerfield,23/02/2021
+434,PowerColor Radeon RX 550 - 512 4 GB Red Dragon Video Card,54.75,Cherie Scrivener,02/04/2021
+435,Corsair Vengeance LPX 16 GB (2 x 8 GB) DDR4-3000 CL15 Memory,57.49,Kristopher Summerfield,04/05/2021
+436,Corsair Vengeance LPX 16 GB (2 x 8 GB) DDR4-3000 CL15 Memory,78.95,Flo Cornett,08/04/2021
+437,Lian Li Lancool II Mesh ATX Mid Tower Case,89.99,Cherie Scrivener,08/05/2021
+438,MSI B460M PRO-VDH Micro ATX LGA1200 Motherboard,78.95,Lettie Hodson,22/02/2021
+439,Samsung 970 Evo 500 GB M.2-2280 NVME Solid State Drive,299.99,Kristopher Summerfield,03/04/2021
+440,MSI B550-A PRO ATX AM4 Motherboard,179.99,Randall Best,05/02/2021
+441,Asus ROG Strix LC 120 80.95 CFM Liquid CPU Cooler,84.99,Gale Stringer,07/04/2021
+442,Intel Core i3-10100 3.6 GHz Quad-Core Processor,97.99,Elenora Ruskin,06/04/2021
+443,Asus GeForce GTX 1650 SUPER 4 GB TUF GAMING OC Video Card,97.99,Randall Best,08/05/2021
+444,AMD Ryzen 5 5600X 3.7 GHz 6-Core Processor,78.95,Kylie Armstrong,18/02/2021
+445,Samsung 970 Evo 500 GB M.2-2280 NVME Solid State Drive,75.48,Deon Hobson,02/04/2021
+446,Corsair CXM (2015) 450 W 80+ Bronze Certified Semi-modular ATX Power Supply,54.75,Gale Stringer,14/02/2021
+447,ARCTIC Freezer 34 eSports DUO CPU Cooler,55.32,Elenora Ruskin,12/05/2021
+448,AMD Ryzen 5 5600X 3.7 GHz 6-Core Processor,109.98,Kristopher Summerfield,25/05/2021
+449,Corsair Vengeance LPX 16 GB (2 x 8 GB) DDR4-3000 CL15 Memory,78.95,Cherie Scrivener,03/04/2021
+450,Asus GeForce GTX 1650 SUPER 4 GB TUF GAMING OC Video Card,86.7,Elenora Ruskin,06/02/2021
+451,Lian Li Lancool II Mesh ATX Mid Tower Case,249.99,Kristopher Summerfield,26/02/2021
+452,Corsair Vengeance LPX 16 GB (2 x 8 GB) DDR4-3000 CL15 Memory,249.99,Kristopher Summerfield,07/02/2021
+453,Samsung 970 Evo 500 GB M.2-2280 NVME Solid State Drive,84.99,Flo Cornett,03/02/2021
+454,MSI B460M PRO-VDH Micro ATX LGA1200 Motherboard,57.49,Kristopher Summerfield,07/03/2021
+455,NZXT H210 Mini ITX Tower Case,55.32,Lettie Hodson,06/03/2021
+456,Lian Li Lancool II Mesh ATX Mid Tower Case,249.99,Flo Cornett,12/05/2021
+457,AMD Ryzen 5 5600X 3.7 GHz 6-Core Processor,129.99,Kristopher Summerfield,02/04/2021
+458,MSI B550-A PRO ATX AM4 Motherboard,299.99,Elenora Ruskin,23/03/2021
+459,Crucial P1 1 TB M.2-2280 NVME Solid State Drive,97.99,Kylie Armstrong,08/03/2021
+460,Crucial P1 1 TB M.2-2280 NVME Solid State Drive,299.99,Kylie Armstrong,20/05/2021
+461,"Kingston A400 480 GB 2.5"" Solid State Drive",57.49,Cherie Scrivener,24/02/2021
+462,Lian Li Lancool II Mesh ATX Mid Tower Case,57.49,Randall Best,03/04/2021
+463,MSI B460M PRO-VDH Micro ATX LGA1200 Motherboard,249.99,Gale Stringer,17/04/2021
+464,Asus GeForce GTX 1650 SUPER 4 GB TUF GAMING OC Video Card,55.32,Deon Hobson,03/03/2021
+465,Corsair Vengeance LPX 16 GB (2 x 8 GB) DDR4-3000 CL15 Memory,269.99,Earl Strickland,08/02/2021
+466,Samsung 970 Evo 500 GB M.2-2280 NVME Solid State Drive,57.49,Flo Cornett,14/02/2021
+467,Asus ROG STRIX B550-I GAMING Mini ITX AM4 Motherboard,89.95,Cherie Scrivener,03/04/2021
+468,NZXT H210 Mini ITX Tower Case,85.19,Gale Stringer,07/03/2021
+469,Asus ROG STRIX B550-I GAMING Mini ITX AM4 Motherboard,109.98,Earl Strickland,22/03/2021
+470,MSI B550-A PRO ATX AM4 Motherboard,129.99,Lettie Hodson,15/02/2021
+471,Corsair RM (2019) 750 W 80+ Gold Certified Fully Modular ATX Power Supply,829.99,Lettie Hodson,18/03/2021
+472,Intel Core i3-10100 3.6 GHz Quad-Core Processor,84.99,Kristopher Summerfield,14/05/2021
+473,NZXT H210 Mini ITX Tower Case,89.95,Cherie Scrivener,11/02/2021
+474,AMD Ryzen 5 3600XT 3.8 GHz 6-Core Processor,55.32,Flo Cornett,05/02/2021
+475,AMD Ryzen 5 5600X 3.7 GHz 6-Core Processor,99.95,Gale Stringer,09/03/2021
+476,Lian Li Lancool II Mesh ATX Mid Tower Case,75.48,Flo Cornett,12/02/2021
+477,"Kingston A400 480 GB 2.5"" Solid State Drive",97.99,Flo Cornett,27/03/2021
+478,Asus ROG Strix LC 120 80.95 CFM Liquid CPU Cooler,75.48,Flo Cornett,27/03/2021
+479,Palit GeForce RTX 3080 10 GB GamingPro Video Card,86.7,Cherie Scrivener,04/02/2021
+480,Samsung 970 Evo 500 GB M.2-2280 NVME Solid State Drive,97.99,Elenora Ruskin,14/02/2021
+481,Palit GeForce RTX 3080 10 GB GamingPro Video Card,89.99,Flo Cornett,25/05/2021
+482,ARCTIC Freezer 34 eSports DUO CPU Cooler,78.95,Randall Best,05/02/2021
+483,AMD Ryzen 5 3600XT 3.8 GHz 6-Core Processor,179.99,Flo Cornett,21/02/2021
+484,Palit GeForce RTX 3080 10 GB GamingPro Video Card,99.95,Lettie Hodson,21/02/2021
+485,MSI B550-A PRO ATX AM4 Motherboard,44.47,Flo Cornett,11/03/2021
+486,"Kingston A400 480 GB 2.5"" Solid State Drive",78.95,Cherie Scrivener,14/02/2021
+487,AMD Ryzen 5 3600XT 3.8 GHz 6-Core Processor,54.75,Randall Best,09/05/2021
+488,Asus ROG Strix LC 120 80.95 CFM Liquid CPU Cooler,108.99,Randall Best,24/02/2021
+489,AMD Ryzen 5 5600X 3.7 GHz 6-Core Processor,44.47,Elenora Ruskin,01/05/2021
+490,PowerColor Radeon RX 550 - 512 4 GB Red Dragon Video Card,75.48,Kristopher Summerfield,25/05/2021
+491,MSI B550-A PRO ATX AM4 Motherboard,97.99,Gale Stringer,28/05/2021
+492,Samsung 970 Evo 500 GB M.2-2280 NVME Solid State Drive,829.99,Gale Stringer,08/04/2021
+493,NZXT H210 Mini ITX Tower Case,97.99,Gale Stringer,09/05/2021
+494,PowerColor Radeon RX 550 - 512 4 GB Red Dragon Video Card,249.99,Randall Best,20/04/2021
+495,G.Skill Ripjaws V 16 GB (2 x 8 GB) DDR4-3600 CL16 Memory,75.48,Lettie Hodson,17/05/2021
+496,Crucial P1 1 TB M.2-2280 NVME Solid State Drive,109.98,Kylie Armstrong,14/04/2021
+497,G.Skill Ripjaws V 16 GB (2 x 8 GB) DDR4-3600 CL16 Memory,99.95,Gale Stringer,15/03/2021
+498,Asus ROG STRIX B550-I GAMING Mini ITX AM4 Motherboard,97.99,Randall Best,23/04/2021
+499,"Kingston A400 480 GB 2.5"" Solid State Drive",78.95,Earl Strickland,15/04/2021
+500,Asus ROG Strix LC 120 80.95 CFM Liquid CPU Cooler,109.98,Kylie Armstrong,28/03/2021
+501,ARCTIC Freezer 34 eSports DUO CPU Cooler,99.95,Kylie Armstrong,01/03/2021
+502,Patriot Signature Premium 16 GB (2 x 8 GB) DDR4-2666 CL19 Memory,108.99,Kristopher Summerfield,31/05/2021
+503,PowerColor Radeon RX 550 - 512 4 GB Red Dragon Video Card,57.49,Randall Best,26/03/2021
+504,Samsung 970 Evo 500 GB M.2-2280 NVME Solid State Drive,85.19,Deon Hobson,19/02/2021
+505,MSI B460M PRO-VDH Micro ATX LGA1200 Motherboard,299.99,Elenora Ruskin,10/04/2021
+506,Intel Core i3-10100 3.6 GHz Quad-Core Processor,89.95,Kylie Armstrong,04/02/2021
+507,Crucial P1 1 TB M.2-2280 NVME Solid State Drive,249.99,Lettie Hodson,17/02/2021
+508,ARCTIC Freezer 34 eSports DUO CPU Cooler,299.99,Earl Strickland,05/04/2021
+509,"Kingston A400 480 GB 2.5"" Solid State Drive",109.98,Kylie Armstrong,06/02/2021
+510,Asus ROG STRIX B550-I GAMING Mini ITX AM4 Motherboard,44.47,Kristopher Summerfield,19/03/2021
+511,AMD Ryzen 5 3600XT 3.8 GHz 6-Core Processor,97.99,Randall Best,29/04/2021
+512,Palit GeForce RTX 3080 10 GB GamingPro Video Card,249.99,Kristopher Summerfield,21/04/2021
+513,G.Skill Ripjaws V 16 GB (2 x 8 GB) DDR4-3600 CL16 Memory,109.98,Flo Cornett,04/03/2021
+514,AMD Ryzen 5 3600XT 3.8 GHz 6-Core Processor,85.19,Randall Best,16/02/2021
+515,Asus ROG Strix LC 120 80.95 CFM Liquid CPU Cooler,84.99,Gale Stringer,18/03/2021
+516,MSI B460M PRO-VDH Micro ATX LGA1200 Motherboard,108.99,Flo Cornett,21/02/2021
+517,NZXT H210 Mini ITX Tower Case,89.95,Earl Strickland,21/04/2021
+518,Samsung 970 Evo 500 GB M.2-2280 NVME Solid State Drive,89.99,Deon Hobson,26/03/2021
+519,Samsung 970 Evo 500 GB M.2-2280 NVME Solid State Drive,299.99,Kristopher Summerfield,31/05/2021
+520,Samsung 970 Evo 500 GB M.2-2280 NVME Solid State Drive,75.48,Earl Strickland,15/03/2021
+521,MSI B550-A PRO ATX AM4 Motherboard,99.95,Kristopher Summerfield,16/02/2021
+522,Corsair RM (2019) 750 W 80+ Gold Certified Fully Modular ATX Power Supply,179.99,Cherie Scrivener,13/04/2021
+523,Palit GeForce RTX 3080 10 GB GamingPro Video Card,89.95,Earl Strickland,03/04/2021
+524,Asus ROG STRIX B550-I GAMING Mini ITX AM4 Motherboard,269.99,Kristopher Summerfield,19/02/2021
+525,Crucial P1 1 TB M.2-2280 NVME Solid State Drive,129.99,Gale Stringer,01/05/2021
+526,G.Skill Ripjaws V 16 GB (2 x 8 GB) DDR4-3600 CL16 Memory,179.99,Flo Cornett,10/03/2021
+527,AMD Ryzen 5 3600XT 3.8 GHz 6-Core Processor,85.19,Deon Hobson,17/02/2021
+528,MSI B550-A PRO ATX AM4 Motherboard,108.99,Gale Stringer,14/05/2021
+529,"Kingston A400 480 GB 2.5"" Solid State Drive",179.99,Randall Best,26/04/2021
+530,"Kingston A400 480 GB 2.5"" Solid State Drive",55.32,Deon Hobson,24/05/2021
+531,Samsung 970 Evo 500 GB M.2-2280 NVME Solid State Drive,44.47,Gale Stringer,21/05/2021
+532,AMD Ryzen 5 3600XT 3.8 GHz 6-Core Processor,86.7,Elenora Ruskin,23/04/2021
+533,MSI B460M PRO-VDH Micro ATX LGA1200 Motherboard,108.99,Elenora Ruskin,23/04/2021
+534,Corsair CXM (2015) 450 W 80+ Bronze Certified Semi-modular ATX Power Supply,179.99,Kylie Armstrong,09/03/2021
+535,Asus ROG STRIX B550-I GAMING Mini ITX AM4 Motherboard,55.32,Cherie Scrivener,07/05/2021
+536,Asus ROG Strix LC 120 80.95 CFM Liquid CPU Cooler,829.99,Lettie Hodson,02/04/2021
+537,Corsair RM (2019) 750 W 80+ Gold Certified Fully Modular ATX Power Supply,85.19,Elenora Ruskin,24/04/2021
+538,Crucial P1 1 TB M.2-2280 NVME Solid State Drive,269.99,Kylie Armstrong,23/05/2021
+539,ARCTIC Freezer 34 eSports DUO CPU Cooler,54.75,Lettie Hodson,28/03/2021
+540,PowerColor Radeon RX 550 - 512 4 GB Red Dragon Video Card,108.99,Lettie Hodson,22/05/2021
+541,Asus ROG STRIX B550-I GAMING Mini ITX AM4 Motherboard,78.95,Deon Hobson,09/04/2021
+542,Patriot Signature Premium 16 GB (2 x 8 GB) DDR4-2666 CL19 Memory,44.47,Elenora Ruskin,20/03/2021
+543,Corsair CXM (2015) 450 W 80+ Bronze Certified Semi-modular ATX Power Supply,84.99,Randall Best,02/03/2021
+544,Asus ROG STRIX B550-I GAMING Mini ITX AM4 Motherboard,299.99,Elenora Ruskin,24/02/2021
+545,AMD Ryzen 5 5600X 3.7 GHz 6-Core Processor,108.99,Deon Hobson,25/02/2021
+546,ARCTIC Freezer 34 eSports DUO CPU Cooler,829.99,Lettie Hodson,06/04/2021
+547,Corsair Vengeance LPX 16 GB (2 x 8 GB) DDR4-3000 CL15 Memory,299.99,Kylie Armstrong,26/05/2021
+548,Lian Li Lancool II Mesh ATX Mid Tower Case,129.99,Randall Best,15/04/2021
+549,Crucial P1 1 TB M.2-2280 NVME Solid State Drive,54.75,Lettie Hodson,23/03/2021
+550,AMD Ryzen 5 3600XT 3.8 GHz 6-Core Processor,299.99,Elenora Ruskin,07/04/2021
+551,Corsair CXM (2015) 450 W 80+ Bronze Certified Semi-modular ATX Power Supply,54.75,Kylie Armstrong,21/04/2021
+552,Asus GeForce GTX 1650 SUPER 4 GB TUF GAMING OC Video Card,75.48,Gale Stringer,24/02/2021
+553,Corsair CXM (2015) 450 W 80+ Bronze Certified Semi-modular ATX Power Supply,54.75,Cherie Scrivener,11/04/2021
+554,Corsair Vengeance LPX 16 GB (2 x 8 GB) DDR4-3000 CL15 Memory,269.99,Gale Stringer,27/02/2021
+555,Asus ROG Strix LC 120 80.95 CFM Liquid CPU Cooler,97.99,Gale Stringer,29/03/2021
+556,Patriot Signature Premium 16 GB (2 x 8 GB) DDR4-2666 CL19 Memory,299.99,Earl Strickland,22/02/2021
+557,Asus ROG Strix LC 120 80.95 CFM Liquid CPU Cooler,108.99,Kristopher Summerfield,10/02/2021
+558,Lian Li Lancool II Mesh ATX Mid Tower Case,829.99,Kristopher Summerfield,18/05/2021
+559,MSI B550-A PRO ATX AM4 Motherboard,84.99,Kristopher Summerfield,12/05/2021
+560,Corsair Vengeance LPX 16 GB (2 x 8 GB) DDR4-3000 CL15 Memory,44.47,Lettie Hodson,06/05/2021
+561,Asus ROG Strix LC 120 80.95 CFM Liquid CPU Cooler,108.99,Kristopher Summerfield,08/03/2021
+562,Asus ROG Strix LC 120 80.95 CFM Liquid CPU Cooler,179.99,Earl Strickland,03/04/2021
+563,G.Skill Ripjaws V 16 GB (2 x 8 GB) DDR4-3600 CL16 Memory,269.99,Randall Best,06/04/2021
+564,Corsair Vengeance LPX 16 GB (2 x 8 GB) DDR4-3000 CL15 Memory,89.95,Cherie Scrivener,22/04/2021
+565,Intel Core i3-10100 3.6 GHz Quad-Core Processor,108.99,Kylie Armstrong,21/03/2021
+566,AMD Ryzen 5 5600X 3.7 GHz 6-Core Processor,269.99,Earl Strickland,27/05/2021
+567,Lian Li Lancool II Mesh ATX Mid Tower Case,829.99,Cherie Scrivener,11/05/2021
+568,ARCTIC Freezer 34 eSports DUO CPU Cooler,57.49,Gale Stringer,11/03/2021
+569,AMD Ryzen 5 3600XT 3.8 GHz 6-Core Processor,829.99,Kristopher Summerfield,20/03/2021
+570,Crucial P1 1 TB M.2-2280 NVME Solid State Drive,78.95,Deon Hobson,13/03/2021
+571,PowerColor Radeon RX 550 - 512 4 GB Red Dragon Video Card,78.95,Flo Cornett,19/03/2021
+572,Intel Core i3-10100 3.6 GHz Quad-Core Processor,129.99,Earl Strickland,02/04/2021
+573,G.Skill Ripjaws V 16 GB (2 x 8 GB) DDR4-3600 CL16 Memory,109.98,Kylie Armstrong,10/03/2021
+574,MSI B550-A PRO ATX AM4 Motherboard,299.99,Kristopher Summerfield,01/05/2021
+575,PowerColor Radeon RX 550 - 512 4 GB Red Dragon Video Card,249.99,Earl Strickland,22/05/2021
+576,Asus GeForce GTX 1650 SUPER 4 GB TUF GAMING OC Video Card,99.95,Deon Hobson,04/04/2021
+577,Corsair RM (2019) 750 W 80+ Gold Certified Fully Modular ATX Power Supply,75.48,Deon Hobson,13/04/2021
+578,Asus ROG STRIX B550-I GAMING Mini ITX AM4 Motherboard,44.47,Kylie Armstrong,12/03/2021
+579,PowerColor Radeon RX 550 - 512 4 GB Red Dragon Video Card,57.49,Elenora Ruskin,20/04/2021
+580,Corsair RM (2019) 750 W 80+ Gold Certified Fully Modular ATX Power Supply,269.99,Elenora Ruskin,27/04/2021
+581,"Kingston A400 480 GB 2.5"" Solid State Drive",829.99,Kristopher Summerfield,09/05/2021
+582,AMD Ryzen 5 5600X 3.7 GHz 6-Core Processor,829.99,Cherie Scrivener,19/02/2021
+583,ARCTIC Freezer 34 eSports DUO CPU Cooler,129.99,Randall Best,03/04/2021
+584,NZXT H210 Mini ITX Tower Case,89.95,Deon Hobson,26/03/2021
+585,Intel Core i3-10100 3.6 GHz Quad-Core Processor,75.48,Cherie Scrivener,06/04/2021
+586,Asus GeForce GTX 1650 SUPER 4 GB TUF GAMING OC Video Card,108.99,Cherie Scrivener,26/02/2021
+587,Asus GeForce GTX 1650 SUPER 4 GB TUF GAMING OC Video Card,86.7,Kristopher Summerfield,24/03/2021
+588,Intel Core i3-10100 3.6 GHz Quad-Core Processor,108.99,Randall Best,21/02/2021
+589,MSI B460M PRO-VDH Micro ATX LGA1200 Motherboard,99.95,Gale Stringer,30/04/2021
+590,Corsair Vengeance LPX 16 GB (2 x 8 GB) DDR4-3000 CL15 Memory,54.75,Deon Hobson,28/04/2021
+591,Samsung 970 Evo 500 GB M.2-2280 NVME Solid State Drive,129.99,Flo Cornett,26/04/2021
+592,Asus GeForce GTX 1650 SUPER 4 GB TUF GAMING OC Video Card,57.49,Kristopher Summerfield,21/03/2021
+593,Patriot Signature Premium 16 GB (2 x 8 GB) DDR4-2666 CL19 Memory,179.99,Lettie Hodson,21/02/2021
+594,Corsair RM (2019) 750 W 80+ Gold Certified Fully Modular ATX Power Supply,86.7,Elenora Ruskin,07/04/2021
+595,Lian Li Lancool II Mesh ATX Mid Tower Case,129.99,Randall Best,04/04/2021
+596,PowerColor Radeon RX 550 - 512 4 GB Red Dragon Video Card,57.49,Earl Strickland,06/03/2021
+597,Palit GeForce RTX 3080 10 GB GamingPro Video Card,829.99,Cherie Scrivener,26/03/2021
+598,Corsair CXM (2015) 450 W 80+ Bronze Certified Semi-modular ATX Power Supply,85.19,Lettie Hodson,07/05/2021
+599,Crucial P1 1 TB M.2-2280 NVME Solid State Drive,55.32,Kylie Armstrong,14/04/2021
+600,Samsung 970 Evo 500 GB M.2-2280 NVME Solid State Drive,89.95,Kristopher Summerfield,19/05/2021
+601,AMD Ryzen 5 3600XT 3.8 GHz 6-Core Processor,57.49,Cherie Scrivener,22/02/2021
+602,Corsair Vengeance LPX 16 GB (2 x 8 GB) DDR4-3000 CL15 Memory,299.99,Lettie Hodson,12/02/2021
+603,Patriot Signature Premium 16 GB (2 x 8 GB) DDR4-2666 CL19 Memory,249.99,Elenora Ruskin,24/04/2021
+604,Lian Li Lancool II Mesh ATX Mid Tower Case,57.49,Lettie Hodson,20/05/2021
+605,Corsair CXM (2015) 450 W 80+ Bronze Certified Semi-modular ATX Power Supply,269.99,Kylie Armstrong,30/05/2021
+606,Intel Core i3-10100 3.6 GHz Quad-Core Processor,75.48,Lettie Hodson,04/03/2021
+607,Crucial P1 1 TB M.2-2280 NVME Solid State Drive,75.48,Kristopher Summerfield,20/05/2021
+608,MSI B550-A PRO ATX AM4 Motherboard,179.99,Kylie Armstrong,28/05/2021
+609,Intel Core i3-10100 3.6 GHz Quad-Core Processor,249.99,Gale Stringer,29/05/2021
+610,Samsung 970 Evo 500 GB M.2-2280 NVME Solid State Drive,299.99,Kristopher Summerfield,17/05/2021
+611,Corsair CXM (2015) 450 W 80+ Bronze Certified Semi-modular ATX Power Supply,129.99,Lettie Hodson,02/04/2021
+612,NZXT H210 Mini ITX Tower Case,249.99,Randall Best,08/05/2021
+613,"Kingston A400 480 GB 2.5"" Solid State Drive",55.32,Lettie Hodson,22/04/2021
+614,"Kingston A400 480 GB 2.5"" Solid State Drive",99.95,Deon Hobson,14/03/2021
+615,Corsair RM (2019) 750 W 80+ Gold Certified Fully Modular ATX Power Supply,109.98,Elenora Ruskin,03/02/2021
+616,Intel Core i3-10100 3.6 GHz Quad-Core Processor,85.19,Lettie Hodson,19/02/2021
+617,Lian Li Lancool II Mesh ATX Mid Tower Case,89.99,Cherie Scrivener,28/05/2021
+618,"Kingston A400 480 GB 2.5"" Solid State Drive",269.99,Cherie Scrivener,28/05/2021
+619,PowerColor Radeon RX 550 - 512 4 GB Red Dragon Video Card,54.75,Kristopher Summerfield,24/02/2021
+620,Asus ROG STRIX B550-I GAMING Mini ITX AM4 Motherboard,99.95,Lettie Hodson,16/04/2021
+621,Asus ROG STRIX B550-I GAMING Mini ITX AM4 Motherboard,57.49,Earl Strickland,08/03/2021
+622,Asus ROG Strix LC 120 80.95 CFM Liquid CPU Cooler,44.47,Lettie Hodson,16/04/2021
+623,"Kingston A400 480 GB 2.5"" Solid State Drive",129.99,Earl Strickland,03/05/2021
+624,AMD Ryzen 5 3600XT 3.8 GHz 6-Core Processor,108.99,Elenora Ruskin,11/05/2021
+625,G.Skill Ripjaws V 16 GB (2 x 8 GB) DDR4-3600 CL16 Memory,55.32,Kylie Armstrong,09/04/2021
+626,MSI B550-A PRO ATX AM4 Motherboard,84.99,Randall Best,11/05/2021
+627,Asus ROG Strix LC 120 80.95 CFM Liquid CPU Cooler,57.49,Deon Hobson,09/05/2021
+628,MSI B550-A PRO ATX AM4 Motherboard,179.99,Flo Cornett,02/02/2021
+629,Corsair RM (2019) 750 W 80+ Gold Certified Fully Modular ATX Power Supply,89.95,Gale Stringer,12/04/2021
+630,Asus ROG Strix LC 120 80.95 CFM Liquid CPU Cooler,54.75,Elenora Ruskin,13/05/2021
+631,PowerColor Radeon RX 550 - 512 4 GB Red Dragon Video Card,89.95,Cherie Scrivener,14/03/2021
+632,Asus ROG Strix LC 120 80.95 CFM Liquid CPU Cooler,57.49,Kristopher Summerfield,02/04/2021
+633,Corsair CXM (2015) 450 W 80+ Bronze Certified Semi-modular ATX Power Supply,85.19,Kylie Armstrong,01/05/2021
+634,Asus ROG STRIX B550-I GAMING Mini ITX AM4 Motherboard,89.99,Randall Best,02/05/2021
+635,Crucial P1 1 TB M.2-2280 NVME Solid State Drive,269.99,Flo Cornett,02/02/2021
+636,Crucial P1 1 TB M.2-2280 NVME Solid State Drive,179.99,Elenora Ruskin,08/02/2021
+637,Corsair CXM (2015) 450 W 80+ Bronze Certified Semi-modular ATX Power Supply,129.99,Elenora Ruskin,11/03/2021
+638,"Kingston A400 480 GB 2.5"" Solid State Drive",86.7,Elenora Ruskin,21/02/2021
+639,Corsair CXM (2015) 450 W 80+ Bronze Certified Semi-modular ATX Power Supply,89.95,Kylie Armstrong,07/04/2021
+640,"Kingston A400 480 GB 2.5"" Solid State Drive",78.95,Deon Hobson,09/03/2021
+641,Asus GeForce GTX 1650 SUPER 4 GB TUF GAMING OC Video Card,54.75,Flo Cornett,16/02/2021
+642,Corsair RM (2019) 750 W 80+ Gold Certified Fully Modular ATX Power Supply,99.95,Gale Stringer,04/03/2021
+643,ARCTIC Freezer 34 eSports DUO CPU Cooler,109.98,Earl Strickland,16/02/2021
+644,Samsung 970 Evo 500 GB M.2-2280 NVME Solid State Drive,97.99,Kristopher Summerfield,11/04/2021
+645,Asus ROG STRIX B550-I GAMING Mini ITX AM4 Motherboard,99.95,Kristopher Summerfield,28/02/2021
+646,NZXT H210 Mini ITX Tower Case,829.99,Gale Stringer,11/02/2021
+647,Palit GeForce RTX 3080 10 GB GamingPro Video Card,85.19,Flo Cornett,03/02/2021
+648,MSI B460M PRO-VDH Micro ATX LGA1200 Motherboard,54.75,Deon Hobson,05/04/2021
+649,MSI B550-A PRO ATX AM4 Motherboard,75.48,Cherie Scrivener,04/04/2021
+650,G.Skill Ripjaws V 16 GB (2 x 8 GB) DDR4-3600 CL16 Memory,249.99,Gale Stringer,12/04/2021
+651,MSI B460M PRO-VDH Micro ATX LGA1200 Motherboard,129.99,Deon Hobson,15/02/2021
+652,G.Skill Ripjaws V 16 GB (2 x 8 GB) DDR4-3600 CL16 Memory,108.99,Kristopher Summerfield,12/02/2021
+653,Corsair CXM (2015) 450 W 80+ Bronze Certified Semi-modular ATX Power Supply,78.95,Gale Stringer,16/02/2021
+654,ARCTIC Freezer 34 eSports DUO CPU Cooler,89.95,Earl Strickland,02/02/2021
+655,MSI B460M PRO-VDH Micro ATX LGA1200 Motherboard,109.98,Flo Cornett,04/05/2021
+656,Crucial P1 1 TB M.2-2280 NVME Solid State Drive,269.99,Kristopher Summerfield,09/04/2021
+657,"Kingston A400 480 GB 2.5"" Solid State Drive",54.75,Flo Cornett,05/03/2021
+658,Palit GeForce RTX 3080 10 GB GamingPro Video Card,75.48,Deon Hobson,08/04/2021
+659,AMD Ryzen 5 5600X 3.7 GHz 6-Core Processor,299.99,Flo Cornett,24/05/2021
+660,G.Skill Ripjaws V 16 GB (2 x 8 GB) DDR4-3600 CL16 Memory,269.99,Earl Strickland,27/02/2021
+661,Crucial P1 1 TB M.2-2280 NVME Solid State Drive,109.98,Randall Best,14/05/2021
+662,Intel Core i3-10100 3.6 GHz Quad-Core Processor,86.7,Lettie Hodson,26/05/2021
+663,Asus ROG Strix LC 120 80.95 CFM Liquid CPU Cooler,86.7,Kristopher Summerfield,18/04/2021
+664,MSI B460M PRO-VDH Micro ATX LGA1200 Motherboard,54.75,Earl Strickland,17/05/2021
+665,MSI B460M PRO-VDH Micro ATX LGA1200 Motherboard,57.49,Flo Cornett,04/03/2021
+666,AMD Ryzen 5 3600XT 3.8 GHz 6-Core Processor,299.99,Kylie Armstrong,01/04/2021
+667,MSI B550-A PRO ATX AM4 Motherboard,75.48,Lettie Hodson,04/04/2021
+668,NZXT H210 Mini ITX Tower Case,89.95,Gale Stringer,24/04/2021
+669,Palit GeForce RTX 3080 10 GB GamingPro Video Card,299.99,Gale Stringer,21/05/2021
+670,MSI B550-A PRO ATX AM4 Motherboard,44.47,Randall Best,11/04/2021
+671,NZXT H210 Mini ITX Tower Case,86.7,Earl Strickland,21/05/2021
+672,AMD Ryzen 5 3600XT 3.8 GHz 6-Core Processor,57.49,Kylie Armstrong,19/05/2021
+673,"Kingston A400 480 GB 2.5"" Solid State Drive",829.99,Deon Hobson,16/03/2021
+674,Palit GeForce RTX 3080 10 GB GamingPro Video Card,179.99,Gale Stringer,26/02/2021
+675,Intel Core i3-10100 3.6 GHz Quad-Core Processor,57.49,Kylie Armstrong,23/04/2021
+676,ARCTIC Freezer 34 eSports DUO CPU Cooler,54.75,Lettie Hodson,27/03/2021
+677,NZXT H210 Mini ITX Tower Case,99.95,Earl Strickland,20/02/2021
+678,Intel Core i3-10100 3.6 GHz Quad-Core Processor,108.99,Flo Cornett,29/05/2021
+679,ARCTIC Freezer 34 eSports DUO CPU Cooler,75.48,Flo Cornett,28/02/2021
+680,Lian Li Lancool II Mesh ATX Mid Tower Case,299.99,Elenora Ruskin,17/02/2021
+681,Asus ROG Strix LC 120 80.95 CFM Liquid CPU Cooler,84.99,Lettie Hodson,24/04/2021
+682,"Kingston A400 480 GB 2.5"" Solid State Drive",55.32,Elenora Ruskin,06/02/2021
+683,"Kingston A400 480 GB 2.5"" Solid State Drive",109.98,Earl Strickland,17/05/2021
+684,MSI B460M PRO-VDH Micro ATX LGA1200 Motherboard,78.95,Randall Best,06/05/2021
+685,Lian Li Lancool II Mesh ATX Mid Tower Case,109.98,Kristopher Summerfield,28/04/2021
+686,Asus ROG Strix LC 120 80.95 CFM Liquid CPU Cooler,269.99,Randall Best,21/04/2021
+687,Patriot Signature Premium 16 GB (2 x 8 GB) DDR4-2666 CL19 Memory,249.99,Flo Cornett,18/02/2021
+688,Asus ROG STRIX B550-I GAMING Mini ITX AM4 Motherboard,269.99,Randall Best,05/03/2021
+689,AMD Ryzen 5 3600XT 3.8 GHz 6-Core Processor,44.47,Lettie Hodson,03/05/2021
+690,Crucial P1 1 TB M.2-2280 NVME Solid State Drive,78.95,Randall Best,31/05/2021
+691,NZXT H210 Mini ITX Tower Case,44.47,Kristopher Summerfield,31/03/2021
+692,Palit GeForce RTX 3080 10 GB GamingPro Video Card,108.99,Elenora Ruskin,08/02/2021
+693,Asus ROG STRIX B550-I GAMING Mini ITX AM4 Motherboard,75.48,Cherie Scrivener,13/03/2021
+694,MSI B550-A PRO ATX AM4 Motherboard,179.99,Deon Hobson,13/03/2021
+695,"Kingston A400 480 GB 2.5"" Solid State Drive",109.98,Earl Strickland,01/03/2021
+696,NZXT H210 Mini ITX Tower Case,109.98,Gale Stringer,10/04/2021
+697,Asus ROG Strix LC 120 80.95 CFM Liquid CPU Cooler,75.48,Randall Best,12/05/2021
+698,NZXT H210 Mini ITX Tower Case,829.99,Deon Hobson,24/05/2021
+699,G.Skill Ripjaws V 16 GB (2 x 8 GB) DDR4-3600 CL16 Memory,75.48,Deon Hobson,27/04/2021
+700,Asus GeForce GTX 1650 SUPER 4 GB TUF GAMING OC Video Card,108.99,Gale Stringer,07/05/2021
+701,Palit GeForce RTX 3080 10 GB GamingPro Video Card,179.99,Lettie Hodson,29/05/2021
+702,MSI B550-A PRO ATX AM4 Motherboard,44.47,Gale Stringer,08/05/2021
+703,Samsung 970 Evo 500 GB M.2-2280 NVME Solid State Drive,55.32,Kylie Armstrong,09/05/2021
+704,Samsung 970 Evo 500 GB M.2-2280 NVME Solid State Drive,54.75,Earl Strickland,23/05/2021
+705,Palit GeForce RTX 3080 10 GB GamingPro Video Card,108.99,Cherie Scrivener,19/05/2021
+706,ARCTIC Freezer 34 eSports DUO CPU Cooler,85.19,Kristopher Summerfield,30/05/2021
+707,Lian Li Lancool II Mesh ATX Mid Tower Case,57.49,Elenora Ruskin,16/05/2021
+708,NZXT H210 Mini ITX Tower Case,108.99,Earl Strickland,13/04/2021
+709,MSI B460M PRO-VDH Micro ATX LGA1200 Motherboard,89.99,Earl Strickland,13/02/2021
+710,"Kingston A400 480 GB 2.5"" Solid State Drive",44.47,Gale Stringer,24/03/2021
+711,Asus ROG STRIX B550-I GAMING Mini ITX AM4 Motherboard,179.99,Gale Stringer,28/05/2021
+712,AMD Ryzen 5 3600XT 3.8 GHz 6-Core Processor,269.99,Gale Stringer,22/05/2021
+713,Patriot Signature Premium 16 GB (2 x 8 GB) DDR4-2666 CL19 Memory,179.99,Kristopher Summerfield,16/02/2021
+714,Palit GeForce RTX 3080 10 GB GamingPro Video Card,55.32,Gale Stringer,26/03/2021
+715,Crucial P1 1 TB M.2-2280 NVME Solid State Drive,99.95,Kristopher Summerfield,05/02/2021
+716,Intel Core i3-10100 3.6 GHz Quad-Core Processor,89.99,Deon Hobson,03/04/2021
+717,ARCTIC Freezer 34 eSports DUO CPU Cooler,269.99,Kristopher Summerfield,20/04/2021
+718,Samsung 970 Evo 500 GB M.2-2280 NVME Solid State Drive,84.99,Elenora Ruskin,17/05/2021
+719,MSI B460M PRO-VDH Micro ATX LGA1200 Motherboard,179.99,Deon Hobson,18/03/2021
+720,NZXT H210 Mini ITX Tower Case,44.47,Elenora Ruskin,05/04/2021
+721,Palit GeForce RTX 3080 10 GB GamingPro Video Card,75.48,Lettie Hodson,09/03/2021
+722,PowerColor Radeon RX 550 - 512 4 GB Red Dragon Video Card,89.95,Earl Strickland,21/04/2021
+723,"Kingston A400 480 GB 2.5"" Solid State Drive",269.99,Elenora Ruskin,18/03/2021
+724,NZXT H210 Mini ITX Tower Case,57.49,Kylie Armstrong,04/03/2021
+725,Samsung 970 Evo 500 GB M.2-2280 NVME Solid State Drive,109.98,Gale Stringer,29/05/2021
+726,"Kingston A400 480 GB 2.5"" Solid State Drive",78.95,Kristopher Summerfield,25/02/2021
+727,Corsair Vengeance LPX 16 GB (2 x 8 GB) DDR4-3000 CL15 Memory,89.99,Deon Hobson,28/05/2021
+728,Corsair Vengeance LPX 16 GB (2 x 8 GB) DDR4-3000 CL15 Memory,269.99,Kylie Armstrong,21/03/2021
+729,Intel Core i3-10100 3.6 GHz Quad-Core Processor,86.7,Kylie Armstrong,22/04/2021
+730,Asus GeForce GTX 1650 SUPER 4 GB TUF GAMING OC Video Card,99.95,Randall Best,12/04/2021
+731,Palit GeForce RTX 3080 10 GB GamingPro Video Card,269.99,Deon Hobson,18/03/2021
+732,Corsair RM (2019) 750 W 80+ Gold Certified Fully Modular ATX Power Supply,85.19,Kylie Armstrong,04/02/2021
+733,Lian Li Lancool II Mesh ATX Mid Tower Case,84.99,Deon Hobson,08/03/2021
+734,AMD Ryzen 5 5600X 3.7 GHz 6-Core Processor,89.95,Cherie Scrivener,01/05/2021
+735,"Kingston A400 480 GB 2.5"" Solid State Drive",129.99,Flo Cornett,18/03/2021
+736,Patriot Signature Premium 16 GB (2 x 8 GB) DDR4-2666 CL19 Memory,89.95,Deon Hobson,08/04/2021
+737,Palit GeForce RTX 3080 10 GB GamingPro Video Card,44.47,Lettie Hodson,07/04/2021
+738,AMD Ryzen 5 5600X 3.7 GHz 6-Core Processor,89.99,Gale Stringer,26/05/2021
+739,AMD Ryzen 5 5600X 3.7 GHz 6-Core Processor,44.47,Deon Hobson,11/05/2021
+740,Asus ROG Strix LC 120 80.95 CFM Liquid CPU Cooler,109.98,Earl Strickland,19/04/2021
+741,Patriot Signature Premium 16 GB (2 x 8 GB) DDR4-2666 CL19 Memory,108.99,Kylie Armstrong,11/02/2021
+742,Crucial P1 1 TB M.2-2280 NVME Solid State Drive,89.95,Earl Strickland,14/03/2021
+743,Lian Li Lancool II Mesh ATX Mid Tower Case,44.47,Elenora Ruskin,05/03/2021
+744,Asus ROG STRIX B550-I GAMING Mini ITX AM4 Motherboard,75.48,Kylie Armstrong,06/04/2021
+745,Corsair RM (2019) 750 W 80+ Gold Certified Fully Modular ATX Power Supply,249.99,Deon Hobson,06/05/2021
+746,Asus ROG Strix LC 120 80.95 CFM Liquid CPU Cooler,269.99,Kylie Armstrong,16/03/2021
+747,MSI B550-A PRO ATX AM4 Motherboard,108.99,Flo Cornett,31/03/2021
+748,AMD Ryzen 5 3600XT 3.8 GHz 6-Core Processor,75.48,Deon Hobson,17/05/2021
+749,AMD Ryzen 5 3600XT 3.8 GHz 6-Core Processor,85.19,Gale Stringer,17/05/2021
+750,Asus ROG STRIX B550-I GAMING Mini ITX AM4 Motherboard,829.99,Earl Strickland,19/05/2021
+751,Palit GeForce RTX 3080 10 GB GamingPro Video Card,84.99,Lettie Hodson,29/03/2021
+752,Asus ROG Strix LC 120 80.95 CFM Liquid CPU Cooler,78.95,Gale Stringer,24/05/2021
+753,Lian Li Lancool II Mesh ATX Mid Tower Case,829.99,Deon Hobson,24/03/2021
+754,Corsair CXM (2015) 450 W 80+ Bronze Certified Semi-modular ATX Power Supply,44.47,Cherie Scrivener,20/05/2021
+755,Palit GeForce RTX 3080 10 GB GamingPro Video Card,89.99,Kylie Armstrong,18/02/2021
+756,Crucial P1 1 TB M.2-2280 NVME Solid State Drive,179.99,Gale Stringer,28/05/2021
+757,Palit GeForce RTX 3080 10 GB GamingPro Video Card,249.99,Kristopher Summerfield,12/02/2021
+758,Corsair CXM (2015) 450 W 80+ Bronze Certified Semi-modular ATX Power Supply,108.99,Elenora Ruskin,06/04/2021
+759,Patriot Signature Premium 16 GB (2 x 8 GB) DDR4-2666 CL19 Memory,78.95,Randall Best,15/05/2021
+760,Asus ROG Strix LC 120 80.95 CFM Liquid CPU Cooler,57.49,Randall Best,06/02/2021
+761,MSI B460M PRO-VDH Micro ATX LGA1200 Motherboard,84.99,Earl Strickland,06/04/2021
+762,Palit GeForce RTX 3080 10 GB GamingPro Video Card,299.99,Lettie Hodson,01/02/2021
+763,G.Skill Ripjaws V 16 GB (2 x 8 GB) DDR4-3600 CL16 Memory,829.99,Kristopher Summerfield,10/03/2021
+764,NZXT H210 Mini ITX Tower Case,829.99,Deon Hobson,12/02/2021
+765,ARCTIC Freezer 34 eSports DUO CPU Cooler,89.95,Elenora Ruskin,01/05/2021
+766,Corsair RM (2019) 750 W 80+ Gold Certified Fully Modular ATX Power Supply,179.99,Gale Stringer,21/04/2021
+767,Patriot Signature Premium 16 GB (2 x 8 GB) DDR4-2666 CL19 Memory,249.99,Elenora Ruskin,31/05/2021
+768,MSI B460M PRO-VDH Micro ATX LGA1200 Motherboard,108.99,Deon Hobson,22/04/2021
+769,Crucial P1 1 TB M.2-2280 NVME Solid State Drive,179.99,Gale Stringer,22/03/2021
+770,Samsung 970 Evo 500 GB M.2-2280 NVME Solid State Drive,78.95,Randall Best,14/03/2021
+771,Asus GeForce GTX 1650 SUPER 4 GB TUF GAMING OC Video Card,44.47,Cherie Scrivener,03/04/2021
+772,AMD Ryzen 5 5600X 3.7 GHz 6-Core Processor,89.95,Cherie Scrivener,14/05/2021
+773,AMD Ryzen 5 5600X 3.7 GHz 6-Core Processor,299.99,Lettie Hodson,08/03/2021
+774,Palit GeForce RTX 3080 10 GB GamingPro Video Card,44.47,Kristopher Summerfield,17/02/2021
+775,Asus GeForce GTX 1650 SUPER 4 GB TUF GAMING OC Video Card,78.95,Kristopher Summerfield,11/03/2021
+776,Crucial P1 1 TB M.2-2280 NVME Solid State Drive,299.99,Earl Strickland,12/04/2021
+777,NZXT H210 Mini ITX Tower Case,97.99,Lettie Hodson,23/04/2021
+778,Corsair RM (2019) 750 W 80+ Gold Certified Fully Modular ATX Power Supply,86.7,Elenora Ruskin,30/04/2021
+779,MSI B550-A PRO ATX AM4 Motherboard,57.49,Earl Strickland,26/03/2021
+780,AMD Ryzen 5 3600XT 3.8 GHz 6-Core Processor,249.99,Gale Stringer,18/04/2021
+781,MSI B550-A PRO ATX AM4 Motherboard,55.32,Earl Strickland,03/04/2021
+782,Palit GeForce RTX 3080 10 GB GamingPro Video Card,249.99,Deon Hobson,24/04/2021
+783,AMD Ryzen 5 5600X 3.7 GHz 6-Core Processor,108.99,Gale Stringer,10/02/2021
+784,AMD Ryzen 5 3600XT 3.8 GHz 6-Core Processor,249.99,Kylie Armstrong,11/03/2021
+785,Asus GeForce GTX 1650 SUPER 4 GB TUF GAMING OC Video Card,108.99,Lettie Hodson,17/03/2021
+786,MSI B550-A PRO ATX AM4 Motherboard,89.99,Cherie Scrivener,14/05/2021
+787,Crucial P1 1 TB M.2-2280 NVME Solid State Drive,44.47,Elenora Ruskin,27/02/2021
+788,Lian Li Lancool II Mesh ATX Mid Tower Case,54.75,Randall Best,15/04/2021
+789,PowerColor Radeon RX 550 - 512 4 GB Red Dragon Video Card,99.95,Randall Best,08/04/2021
+790,NZXT H210 Mini ITX Tower Case,78.95,Flo Cornett,22/02/2021
+791,Corsair RM (2019) 750 W 80+ Gold Certified Fully Modular ATX Power Supply,89.95,Cherie Scrivener,17/04/2021
+792,Asus ROG STRIX B550-I GAMING Mini ITX AM4 Motherboard,54.75,Lettie Hodson,10/02/2021
+793,MSI B550-A PRO ATX AM4 Motherboard,84.99,Kristopher Summerfield,02/05/2021
+794,Corsair CXM (2015) 450 W 80+ Bronze Certified Semi-modular ATX Power Supply,89.99,Kylie Armstrong,13/05/2021
+795,"Kingston A400 480 GB 2.5"" Solid State Drive",109.98,Cherie Scrivener,24/03/2021
+796,ARCTIC Freezer 34 eSports DUO CPU Cooler,89.95,Deon Hobson,03/02/2021
+797,Lian Li Lancool II Mesh ATX Mid Tower Case,85.19,Gale Stringer,23/04/2021
+798,Intel Core i3-10100 3.6 GHz Quad-Core Processor,829.99,Earl Strickland,05/05/2021
+799,Samsung 970 Evo 500 GB M.2-2280 NVME Solid State Drive,129.99,Kylie Armstrong,25/04/2021
+800,Asus ROG STRIX B550-I GAMING Mini ITX AM4 Motherboard,179.99,Deon Hobson,10/04/2021
+801,"Kingston A400 480 GB 2.5"" Solid State Drive",99.95,Earl Strickland,14/03/2021
+802,"Kingston A400 480 GB 2.5"" Solid State Drive",84.99,Kylie Armstrong,10/03/2021
+803,Corsair CXM (2015) 450 W 80+ Bronze Certified Semi-modular ATX Power Supply,85.19,Earl Strickland,04/04/2021
+804,AMD Ryzen 5 5600X 3.7 GHz 6-Core Processor,249.99,Earl Strickland,19/03/2021
+805,"Kingston A400 480 GB 2.5"" Solid State Drive",75.48,Cherie Scrivener,10/04/2021
+806,Asus ROG STRIX B550-I GAMING Mini ITX AM4 Motherboard,249.99,Randall Best,06/04/2021
+807,AMD Ryzen 5 5600X 3.7 GHz 6-Core Processor,55.32,Lettie Hodson,10/02/2021
+808,Asus ROG STRIX B550-I GAMING Mini ITX AM4 Motherboard,249.99,Flo Cornett,22/02/2021
+809,Asus ROG Strix LC 120 80.95 CFM Liquid CPU Cooler,54.75,Deon Hobson,18/03/2021
+810,Asus ROG Strix LC 120 80.95 CFM Liquid CPU Cooler,108.99,Kristopher Summerfield,22/05/2021
+811,Patriot Signature Premium 16 GB (2 x 8 GB) DDR4-2666 CL19 Memory,44.47,Kylie Armstrong,29/04/2021
+812,Palit GeForce RTX 3080 10 GB GamingPro Video Card,129.99,Flo Cornett,12/04/2021
+813,Corsair RM (2019) 750 W 80+ Gold Certified Fully Modular ATX Power Supply,249.99,Elenora Ruskin,02/04/2021
+814,Corsair RM (2019) 750 W 80+ Gold Certified Fully Modular ATX Power Supply,249.99,Lettie Hodson,26/04/2021
+815,NZXT H210 Mini ITX Tower Case,109.98,Flo Cornett,12/04/2021
+816,Palit GeForce RTX 3080 10 GB GamingPro Video Card,249.99,Lettie Hodson,04/03/2021
+817,Corsair Vengeance LPX 16 GB (2 x 8 GB) DDR4-3000 CL15 Memory,75.48,Flo Cornett,23/03/2021
+818,PowerColor Radeon RX 550 - 512 4 GB Red Dragon Video Card,89.99,Randall Best,26/02/2021
+819,MSI B460M PRO-VDH Micro ATX LGA1200 Motherboard,299.99,Gale Stringer,13/03/2021
+820,AMD Ryzen 5 5600X 3.7 GHz 6-Core Processor,84.99,Elenora Ruskin,06/03/2021
+821,G.Skill Ripjaws V 16 GB (2 x 8 GB) DDR4-3600 CL16 Memory,86.7,Kylie Armstrong,20/04/2021
+822,Corsair Vengeance LPX 16 GB (2 x 8 GB) DDR4-3000 CL15 Memory,89.99,Kylie Armstrong,12/03/2021
+823,Corsair CXM (2015) 450 W 80+ Bronze Certified Semi-modular ATX Power Supply,129.99,Deon Hobson,29/04/2021
+824,Asus GeForce GTX 1650 SUPER 4 GB TUF GAMING OC Video Card,89.99,Randall Best,11/02/2021
+825,G.Skill Ripjaws V 16 GB (2 x 8 GB) DDR4-3600 CL16 Memory,299.99,Elenora Ruskin,25/04/2021
+826,Corsair Vengeance LPX 16 GB (2 x 8 GB) DDR4-3000 CL15 Memory,89.99,Earl Strickland,07/03/2021
+827,Asus GeForce GTX 1650 SUPER 4 GB TUF GAMING OC Video Card,829.99,Kylie Armstrong,21/04/2021
+828,Crucial P1 1 TB M.2-2280 NVME Solid State Drive,78.95,Flo Cornett,24/04/2021
+829,Palit GeForce RTX 3080 10 GB GamingPro Video Card,179.99,Cherie Scrivener,09/05/2021
+830,Intel Core i3-10100 3.6 GHz Quad-Core Processor,89.95,Lettie Hodson,27/03/2021
+831,Corsair Vengeance LPX 16 GB (2 x 8 GB) DDR4-3000 CL15 Memory,55.32,Cherie Scrivener,25/04/2021
+832,Asus GeForce GTX 1650 SUPER 4 GB TUF GAMING OC Video Card,57.49,Gale Stringer,20/02/2021
+833,Asus ROG Strix LC 120 80.95 CFM Liquid CPU Cooler,829.99,Lettie Hodson,25/05/2021
+834,Crucial P1 1 TB M.2-2280 NVME Solid State Drive,54.75,Deon Hobson,01/02/2021
+835,MSI B460M PRO-VDH Micro ATX LGA1200 Motherboard,269.99,Gale Stringer,07/02/2021
+836,AMD Ryzen 5 3600XT 3.8 GHz 6-Core Processor,129.99,Gale Stringer,14/02/2021
+837,Asus GeForce GTX 1650 SUPER 4 GB TUF GAMING OC Video Card,54.75,Randall Best,19/03/2021
+838,Asus ROG STRIX B550-I GAMING Mini ITX AM4 Motherboard,86.7,Lettie Hodson,28/04/2021
+839,"Kingston A400 480 GB 2.5"" Solid State Drive",108.99,Gale Stringer,18/05/2021
+840,Samsung 970 Evo 500 GB M.2-2280 NVME Solid State Drive,57.49,Flo Cornett,24/04/2021
+841,PowerColor Radeon RX 550 - 512 4 GB Red Dragon Video Card,97.99,Kylie Armstrong,11/03/2021
+842,Asus ROG Strix LC 120 80.95 CFM Liquid CPU Cooler,78.95,Randall Best,06/03/2021
+843,ARCTIC Freezer 34 eSports DUO CPU Cooler,89.99,Cherie Scrivener,31/03/2021
+844,Corsair RM (2019) 750 W 80+ Gold Certified Fully Modular ATX Power Supply,78.95,Kristopher Summerfield,27/03/2021
+845,Lian Li Lancool II Mesh ATX Mid Tower Case,829.99,Lettie Hodson,08/04/2021
+846,Asus GeForce GTX 1650 SUPER 4 GB TUF GAMING OC Video Card,829.99,Earl Strickland,05/03/2021
+847,Crucial P1 1 TB M.2-2280 NVME Solid State Drive,109.98,Kylie Armstrong,02/02/2021
+848,Corsair RM (2019) 750 W 80+ Gold Certified Fully Modular ATX Power Supply,99.95,Deon Hobson,30/03/2021
+849,AMD Ryzen 5 3600XT 3.8 GHz 6-Core Processor,129.99,Earl Strickland,19/05/2021
+850,Corsair Vengeance LPX 16 GB (2 x 8 GB) DDR4-3000 CL15 Memory,99.95,Elenora Ruskin,04/05/2021
+851,Corsair RM (2019) 750 W 80+ Gold Certified Fully Modular ATX Power Supply,299.99,Lettie Hodson,27/04/2021
+852,AMD Ryzen 5 3600XT 3.8 GHz 6-Core Processor,44.47,Kristopher Summerfield,29/03/2021
+853,Intel Core i3-10100 3.6 GHz Quad-Core Processor,89.95,Earl Strickland,18/02/2021
+854,Samsung 970 Evo 500 GB M.2-2280 NVME Solid State Drive,109.98,Cherie Scrivener,26/03/2021
+855,MSI B460M PRO-VDH Micro ATX LGA1200 Motherboard,99.95,Cherie Scrivener,28/04/2021
+856,Samsung 970 Evo 500 GB M.2-2280 NVME Solid State Drive,89.99,Kristopher Summerfield,05/05/2021
+857,Patriot Signature Premium 16 GB (2 x 8 GB) DDR4-2666 CL19 Memory,109.98,Randall Best,22/02/2021
+858,ARCTIC Freezer 34 eSports DUO CPU Cooler,97.99,Flo Cornett,24/05/2021
+859,Asus GeForce GTX 1650 SUPER 4 GB TUF GAMING OC Video Card,86.7,Earl Strickland,17/03/2021
+860,NZXT H210 Mini ITX Tower Case,44.47,Gale Stringer,20/05/2021
+861,Palit GeForce RTX 3080 10 GB GamingPro Video Card,299.99,Flo Cornett,14/05/2021
+862,Corsair Vengeance LPX 16 GB (2 x 8 GB) DDR4-3000 CL15 Memory,89.95,Gale Stringer,06/02/2021
+863,NZXT H210 Mini ITX Tower Case,299.99,Elenora Ruskin,20/04/2021
+864,Lian Li Lancool II Mesh ATX Mid Tower Case,54.75,Cherie Scrivener,13/05/2021
+865,AMD Ryzen 5 3600XT 3.8 GHz 6-Core Processor,179.99,Deon Hobson,28/02/2021
+866,Samsung 970 Evo 500 GB M.2-2280 NVME Solid State Drive,108.99,Kristopher Summerfield,20/04/2021
+867,NZXT H210 Mini ITX Tower Case,54.75,Lettie Hodson,24/04/2021
+868,AMD Ryzen 5 5600X 3.7 GHz 6-Core Processor,85.19,Kristopher Summerfield,21/02/2021
+869,MSI B550-A PRO ATX AM4 Motherboard,108.99,Deon Hobson,06/03/2021
+870,Asus ROG STRIX B550-I GAMING Mini ITX AM4 Motherboard,55.32,Elenora Ruskin,24/05/2021
+871,MSI B460M PRO-VDH Micro ATX LGA1200 Motherboard,89.95,Deon Hobson,14/05/2021
+872,Asus GeForce GTX 1650 SUPER 4 GB TUF GAMING OC Video Card,57.49,Elenora Ruskin,27/05/2021
+873,MSI B550-A PRO ATX AM4 Motherboard,109.98,Flo Cornett,14/03/2021
+874,Lian Li Lancool II Mesh ATX Mid Tower Case,299.99,Kristopher Summerfield,02/02/2021
+875,PowerColor Radeon RX 550 - 512 4 GB Red Dragon Video Card,108.99,Lettie Hodson,07/03/2021
+876,"Kingston A400 480 GB 2.5"" Solid State Drive",109.98,Deon Hobson,29/03/2021
+877,MSI B460M PRO-VDH Micro ATX LGA1200 Motherboard,109.98,Randall Best,05/03/2021
+878,Asus ROG Strix LC 120 80.95 CFM Liquid CPU Cooler,57.49,Elenora Ruskin,25/02/2021
+879,ARCTIC Freezer 34 eSports DUO CPU Cooler,269.99,Kylie Armstrong,06/02/2021
+880,Crucial P1 1 TB M.2-2280 NVME Solid State Drive,97.99,Elenora Ruskin,20/05/2021
+881,Patriot Signature Premium 16 GB (2 x 8 GB) DDR4-2666 CL19 Memory,57.49,Randall Best,18/05/2021
+882,PowerColor Radeon RX 550 - 512 4 GB Red Dragon Video Card,89.95,Gale Stringer,05/04/2021
+883,Asus ROG STRIX B550-I GAMING Mini ITX AM4 Motherboard,75.48,Earl Strickland,08/03/2021
+884,MSI B460M PRO-VDH Micro ATX LGA1200 Motherboard,57.49,Randall Best,16/03/2021
+885,Lian Li Lancool II Mesh ATX Mid Tower Case,85.19,Lettie Hodson,26/05/2021
+886,Samsung 970 Evo 500 GB M.2-2280 NVME Solid State Drive,54.75,Kristopher Summerfield,18/04/2021
+887,Corsair RM (2019) 750 W 80+ Gold Certified Fully Modular ATX Power Supply,86.7,Kristopher Summerfield,03/05/2021
+888,NZXT H210 Mini ITX Tower Case,269.99,Lettie Hodson,18/05/2021
+889,"Kingston A400 480 GB 2.5"" Solid State Drive",78.95,Gale Stringer,12/05/2021
+890,Crucial P1 1 TB M.2-2280 NVME Solid State Drive,179.99,Kylie Armstrong,27/03/2021
+891,Corsair RM (2019) 750 W 80+ Gold Certified Fully Modular ATX Power Supply,129.99,Elenora Ruskin,05/04/2021
+892,MSI B550-A PRO ATX AM4 Motherboard,108.99,Randall Best,17/02/2021
+893,Corsair CXM (2015) 450 W 80+ Bronze Certified Semi-modular ATX Power Supply,85.19,Kylie Armstrong,20/03/2021
+894,Asus GeForce GTX 1650 SUPER 4 GB TUF GAMING OC Video Card,84.99,Cherie Scrivener,28/05/2021
+895,MSI B550-A PRO ATX AM4 Motherboard,78.95,Lettie Hodson,05/04/2021
+896,Corsair RM (2019) 750 W 80+ Gold Certified Fully Modular ATX Power Supply,179.99,Lettie Hodson,03/04/2021
+897,Asus GeForce GTX 1650 SUPER 4 GB TUF GAMING OC Video Card,269.99,Kristopher Summerfield,26/05/2021
+898,Samsung 970 Evo 500 GB M.2-2280 NVME Solid State Drive,89.99,Deon Hobson,15/02/2021
+899,NZXT H210 Mini ITX Tower Case,97.99,Earl Strickland,23/04/2021
+900,ARCTIC Freezer 34 eSports DUO CPU Cooler,84.99,Deon Hobson,17/02/2021
+901,Palit GeForce RTX 3080 10 GB GamingPro Video Card,44.47,Kristopher Summerfield,21/02/2021
+902,Lian Li Lancool II Mesh ATX Mid Tower Case,85.19,Earl Strickland,20/05/2021
+903,Intel Core i3-10100 3.6 GHz Quad-Core Processor,89.99,Randall Best,04/02/2021
+904,Crucial P1 1 TB M.2-2280 NVME Solid State Drive,54.75,Flo Cornett,27/03/2021
+905,NZXT H210 Mini ITX Tower Case,249.99,Gale Stringer,18/04/2021
+906,Patriot Signature Premium 16 GB (2 x 8 GB) DDR4-2666 CL19 Memory,54.75,Flo Cornett,24/03/2021
+907,MSI B550-A PRO ATX AM4 Motherboard,299.99,Gale Stringer,22/02/2021
+908,MSI B550-A PRO ATX AM4 Motherboard,44.47,Randall Best,23/05/2021
+909,Asus GeForce GTX 1650 SUPER 4 GB TUF GAMING OC Video Card,129.99,Elenora Ruskin,07/04/2021
+910,Intel Core i3-10100 3.6 GHz Quad-Core Processor,86.7,Earl Strickland,20/05/2021
+911,Patriot Signature Premium 16 GB (2 x 8 GB) DDR4-2666 CL19 Memory,75.48,Elenora Ruskin,06/03/2021
+912,MSI B460M PRO-VDH Micro ATX LGA1200 Motherboard,249.99,Deon Hobson,21/03/2021
+913,AMD Ryzen 5 3600XT 3.8 GHz 6-Core Processor,84.99,Kylie Armstrong,10/04/2021
+914,Lian Li Lancool II Mesh ATX Mid Tower Case,299.99,Flo Cornett,24/03/2021
+915,MSI B460M PRO-VDH Micro ATX LGA1200 Motherboard,109.98,Deon Hobson,13/04/2021
+916,PowerColor Radeon RX 550 - 512 4 GB Red Dragon Video Card,57.49,Randall Best,20/03/2021
+917,Asus ROG STRIX B550-I GAMING Mini ITX AM4 Motherboard,55.32,Lettie Hodson,15/02/2021
+918,MSI B550-A PRO ATX AM4 Motherboard,299.99,Gale Stringer,20/05/2021
+919,PowerColor Radeon RX 550 - 512 4 GB Red Dragon Video Card,84.99,Lettie Hodson,23/03/2021
+920,AMD Ryzen 5 3600XT 3.8 GHz 6-Core Processor,129.99,Randall Best,23/02/2021
+921,Corsair RM (2019) 750 W 80+ Gold Certified Fully Modular ATX Power Supply,108.99,Kristopher Summerfield,22/05/2021
+922,Lian Li Lancool II Mesh ATX Mid Tower Case,249.99,Kristopher Summerfield,21/03/2021
+923,Palit GeForce RTX 3080 10 GB GamingPro Video Card,829.99,Randall Best,14/03/2021
+924,Lian Li Lancool II Mesh ATX Mid Tower Case,86.7,Lettie Hodson,27/04/2021
+925,Asus ROG Strix LC 120 80.95 CFM Liquid CPU Cooler,129.99,Earl Strickland,14/04/2021
+926,NZXT H210 Mini ITX Tower Case,109.98,Randall Best,01/02/2021
+927,MSI B550-A PRO ATX AM4 Motherboard,249.99,Deon Hobson,17/04/2021
+928,Asus GeForce GTX 1650 SUPER 4 GB TUF GAMING OC Video Card,55.32,Gale Stringer,07/05/2021
+929,Corsair CXM (2015) 450 W 80+ Bronze Certified Semi-modular ATX Power Supply,179.99,Elenora Ruskin,19/05/2021
+930,Asus ROG STRIX B550-I GAMING Mini ITX AM4 Motherboard,299.99,Flo Cornett,20/02/2021
+931,MSI B460M PRO-VDH Micro ATX LGA1200 Motherboard,44.47,Kristopher Summerfield,19/05/2021
+932,NZXT H210 Mini ITX Tower Case,44.47,Randall Best,15/05/2021
+933,ARCTIC Freezer 34 eSports DUO CPU Cooler,299.99,Randall Best,04/04/2021
+934,G.Skill Ripjaws V 16 GB (2 x 8 GB) DDR4-3600 CL16 Memory,129.99,Earl Strickland,21/04/2021
+935,MSI B550-A PRO ATX AM4 Motherboard,109.98,Randall Best,01/05/2021
+936,Samsung 970 Evo 500 GB M.2-2280 NVME Solid State Drive,249.99,Cherie Scrivener,04/05/2021
+937,ARCTIC Freezer 34 eSports DUO CPU Cooler,179.99,Elenora Ruskin,06/02/2021
+938,Lian Li Lancool II Mesh ATX Mid Tower Case,299.99,Deon Hobson,27/04/2021
+939,Lian Li Lancool II Mesh ATX Mid Tower Case,78.95,Gale Stringer,18/02/2021
+940,Lian Li Lancool II Mesh ATX Mid Tower Case,269.99,Kylie Armstrong,30/03/2021
+941,PowerColor Radeon RX 550 - 512 4 GB Red Dragon Video Card,89.95,Randall Best,04/05/2021
+942,AMD Ryzen 5 5600X 3.7 GHz 6-Core Processor,44.47,Kristopher Summerfield,19/05/2021
+943,MSI B550-A PRO ATX AM4 Motherboard,109.98,Kristopher Summerfield,09/03/2021
+944,ARCTIC Freezer 34 eSports DUO CPU Cooler,89.99,Elenora Ruskin,07/02/2021
+945,Palit GeForce RTX 3080 10 GB GamingPro Video Card,55.32,Gale Stringer,23/03/2021
+946,PowerColor Radeon RX 550 - 512 4 GB Red Dragon Video Card,54.75,Lettie Hodson,17/04/2021
+947,Asus GeForce GTX 1650 SUPER 4 GB TUF GAMING OC Video Card,89.99,Flo Cornett,21/04/2021
+948,Asus ROG Strix LC 120 80.95 CFM Liquid CPU Cooler,97.99,Deon Hobson,30/05/2021
+949,Corsair Vengeance LPX 16 GB (2 x 8 GB) DDR4-3000 CL15 Memory,85.19,Earl Strickland,01/04/2021
+950,MSI B550-A PRO ATX AM4 Motherboard,55.32,Lettie Hodson,18/02/2021
+951,Samsung 970 Evo 500 GB M.2-2280 NVME Solid State Drive,54.75,Randall Best,05/03/2021
+952,PowerColor Radeon RX 550 - 512 4 GB Red Dragon Video Card,109.98,Earl Strickland,24/02/2021
+953,Samsung 970 Evo 500 GB M.2-2280 NVME Solid State Drive,78.95,Earl Strickland,23/03/2021
+954,Intel Core i3-10100 3.6 GHz Quad-Core Processor,78.95,Kylie Armstrong,20/05/2021
+955,Asus GeForce GTX 1650 SUPER 4 GB TUF GAMING OC Video Card,299.99,Lettie Hodson,03/04/2021
+956,MSI B460M PRO-VDH Micro ATX LGA1200 Motherboard,84.99,Kylie Armstrong,09/03/2021
+957,Crucial P1 1 TB M.2-2280 NVME Solid State Drive,54.75,Elenora Ruskin,19/04/2021
+958,AMD Ryzen 5 3600XT 3.8 GHz 6-Core Processor,89.95,Earl Strickland,14/05/2021
+959,Intel Core i3-10100 3.6 GHz Quad-Core Processor,829.99,Flo Cornett,10/05/2021
+960,PowerColor Radeon RX 550 - 512 4 GB Red Dragon Video Card,54.75,Lettie Hodson,24/02/2021
+961,Corsair Vengeance LPX 16 GB (2 x 8 GB) DDR4-3000 CL15 Memory,44.47,Cherie Scrivener,27/04/2021
+962,Intel Core i3-10100 3.6 GHz Quad-Core Processor,179.99,Kristopher Summerfield,12/04/2021
+963,Samsung 970 Evo 500 GB M.2-2280 NVME Solid State Drive,829.99,Deon Hobson,29/03/2021
+964,G.Skill Ripjaws V 16 GB (2 x 8 GB) DDR4-3600 CL16 Memory,299.99,Deon Hobson,21/02/2021
+965,Corsair Vengeance LPX 16 GB (2 x 8 GB) DDR4-3000 CL15 Memory,85.19,Gale Stringer,20/02/2021
+966,Corsair RM (2019) 750 W 80+ Gold Certified Fully Modular ATX Power Supply,299.99,Lettie Hodson,31/03/2021
+967,NZXT H210 Mini ITX Tower Case,108.99,Earl Strickland,14/04/2021
+968,ARCTIC Freezer 34 eSports DUO CPU Cooler,84.99,Kylie Armstrong,27/04/2021
+969,Corsair CXM (2015) 450 W 80+ Bronze Certified Semi-modular ATX Power Supply,97.99,Flo Cornett,05/03/2021
+970,Samsung 970 Evo 500 GB M.2-2280 NVME Solid State Drive,249.99,Kristopher Summerfield,10/05/2021
+971,Corsair RM (2019) 750 W 80+ Gold Certified Fully Modular ATX Power Supply,86.7,Randall Best,03/04/2021
+972,Samsung 970 Evo 500 GB M.2-2280 NVME Solid State Drive,78.95,Cherie Scrivener,06/03/2021
+973,ARCTIC Freezer 34 eSports DUO CPU Cooler,54.75,Elenora Ruskin,09/03/2021
+974,Palit GeForce RTX 3080 10 GB GamingPro Video Card,89.95,Gale Stringer,30/05/2021
+975,ARCTIC Freezer 34 eSports DUO CPU Cooler,108.99,Cherie Scrivener,19/05/2021
+976,AMD Ryzen 5 3600XT 3.8 GHz 6-Core Processor,249.99,Lettie Hodson,12/03/2021
+977,MSI B550-A PRO ATX AM4 Motherboard,89.99,Randall Best,24/03/2021
+978,Samsung 970 Evo 500 GB M.2-2280 NVME Solid State Drive,84.99,Randall Best,17/03/2021
+979,Asus GeForce GTX 1650 SUPER 4 GB TUF GAMING OC Video Card,55.32,Cherie Scrivener,17/05/2021
+980,Lian Li Lancool II Mesh ATX Mid Tower Case,57.49,Deon Hobson,07/02/2021
+981,Asus GeForce GTX 1650 SUPER 4 GB TUF GAMING OC Video Card,108.99,Earl Strickland,11/04/2021
+982,Asus ROG STRIX B550-I GAMING Mini ITX AM4 Motherboard,97.99,Gale Stringer,22/05/2021
+983,Crucial P1 1 TB M.2-2280 NVME Solid State Drive,249.99,Gale Stringer,09/04/2021
+984,"Kingston A400 480 GB 2.5"" Solid State Drive",89.99,Deon Hobson,08/03/2021
+985,Intel Core i3-10100 3.6 GHz Quad-Core Processor,84.99,Gale Stringer,23/02/2021
+986,G.Skill Ripjaws V 16 GB (2 x 8 GB) DDR4-3600 CL16 Memory,249.99,Flo Cornett,06/03/2021
+987,Samsung 970 Evo 500 GB M.2-2280 NVME Solid State Drive,109.98,Deon Hobson,02/04/2021
+988,Corsair CXM (2015) 450 W 80+ Bronze Certified Semi-modular ATX Power Supply,97.99,Elenora Ruskin,07/03/2021
+989,PowerColor Radeon RX 550 - 512 4 GB Red Dragon Video Card,108.99,Elenora Ruskin,26/02/2021
+990,Asus ROG STRIX B550-I GAMING Mini ITX AM4 Motherboard,179.99,Earl Strickland,10/05/2021
+991,Crucial P1 1 TB M.2-2280 NVME Solid State Drive,86.7,Lettie Hodson,17/03/2021
+992,Intel Core i3-10100 3.6 GHz Quad-Core Processor,78.95,Kylie Armstrong,23/02/2021
+993,"Kingston A400 480 GB 2.5"" Solid State Drive",75.48,Flo Cornett,16/05/2021
+994,Corsair Vengeance LPX 16 GB (2 x 8 GB) DDR4-3000 CL15 Memory,54.75,Gale Stringer,09/03/2021
+995,"Kingston A400 480 GB 2.5"" Solid State Drive",129.99,Elenora Ruskin,07/03/2021
+996,Asus GeForce GTX 1650 SUPER 4 GB TUF GAMING OC Video Card,86.7,Earl Strickland,07/04/2021
+997,Intel Core i3-10100 3.6 GHz Quad-Core Processor,129.99,Lettie Hodson,17/02/2021
+998,PowerColor Radeon RX 550 - 512 4 GB Red Dragon Video Card,99.95,Deon Hobson,17/04/2021
+999,AMD Ryzen 5 3600XT 3.8 GHz 6-Core Processor,109.98,Deon Hobson,28/03/2021
+1000,Patriot Signature Premium 16 GB (2 x 8 GB) DDR4-2666 CL19 Memory,99.95,Kylie Armstrong,20/04/2021

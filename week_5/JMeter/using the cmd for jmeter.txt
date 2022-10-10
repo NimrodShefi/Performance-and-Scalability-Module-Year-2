@@ -1,0 +1,4 @@
+## USE THIS COMMAND:
+"C:\Program Files\JMeter\bin\jmeter"-n [jmx file location compared to CMD] -e -o [name of folder for generated data]
+
+## this will generate 2 files and a folder at the location of the jmx file

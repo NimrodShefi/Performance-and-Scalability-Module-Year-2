@@ -1,0 +1,31 @@
+2021-03-11 14:34:35,124 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2021-03-11 14:34:35,154 INFO o.a.j.JMeter: Loading user properties from: C:\Program Files\JMeter\bin\user.properties
+2021-03-11 14:34:35,154 INFO o.a.j.JMeter: Loading system properties from: C:\Program Files\JMeter\bin\system.properties
+2021-03-11 14:34:35,156 INFO o.a.j.JMeter: Copyright (c) 1998-2020 The Apache Software Foundation
+2021-03-11 14:34:35,156 INFO o.a.j.JMeter: Version 5.3
+2021-03-11 14:34:35,156 INFO o.a.j.JMeter: java.version=11.0.5
+2021-03-11 14:34:35,156 INFO o.a.j.JMeter: java.vm.name=OpenJDK 64-Bit Server VM
+2021-03-11 14:34:35,156 INFO o.a.j.JMeter: os.name=Windows 10
+2021-03-11 14:34:35,156 INFO o.a.j.JMeter: os.arch=amd64
+2021-03-11 14:34:35,157 INFO o.a.j.JMeter: os.version=10.0
+2021-03-11 14:34:35,157 INFO o.a.j.JMeter: file.encoding=Cp1252
+2021-03-11 14:34:35,157 INFO o.a.j.JMeter: java.awt.headless=true
+2021-03-11 14:34:35,157 INFO o.a.j.JMeter: Max memory     =1073741824
+2021-03-11 14:34:35,157 INFO o.a.j.JMeter: Available Processors =8
+2021-03-11 14:34:35,167 INFO o.a.j.JMeter: Default Locale=English (EN)
+2021-03-11 14:34:35,168 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2021-03-11 14:34:35,168 INFO o.a.j.JMeter: JMeterHome=C:\Program Files\JMeter
+2021-03-11 14:34:35,168 INFO o.a.j.JMeter: user.dir  =C:\Users\c1989618\Documents\Uni_Work\Year_2\Term_2\Performance_and_Scalability\week_5\JMeter\TakeawayMasterTest
+2021-03-11 14:34:35,168 INFO o.a.j.JMeter: PWD       =C:\Users\c1989618\Documents\Uni_Work\Year_2\Term_2\Performance_and_Scalability\week_5\JMeter\TakeawayMasterTest
+2021-03-11 14:34:39,695 INFO o.a.j.JMeter: IP: 192.168.56.1 Name: NSA24EE9A210E49 FullName: NSA24EE9A210E49
+2021-03-11 14:34:39,711 ERROR o.a.j.JMeter: An error occurred: 
+java.lang.IllegalArgumentException: Cannot write to 'C:\Users\c1989618\Documents\Uni_Work\Year_2\Term_2\Performance_and_Scalability\week_5\JMeter\TakeawayMasterTest\OutputDir' as folder is not empty
+	at org.apache.jorphan.util.JOrphanUtils.canSafelyWriteToFolder(JOrphanUtils.java:662) ~[jorphan.jar:5.3]
+	at org.apache.jorphan.util.JOrphanUtils.canSafelyWriteToFolder(JOrphanUtils.java:618) ~[jorphan.jar:5.3]
+	at org.apache.jmeter.JMeter.extractAndSetReportOutputFolder(JMeter.java:596) ~[ApacheJMeter_core.jar:5.3]
+	at org.apache.jmeter.JMeter.start(JMeter.java:550) [ApacheJMeter_core.jar:5.3]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:566) ~[?:?]
+	at org.apache.jmeter.NewDriver.main(NewDriver.java:252) [ApacheJMeter.jar:5.3]
